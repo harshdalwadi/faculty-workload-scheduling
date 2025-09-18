@@ -1,0 +1,282 @@
+FacultyID,FirstName,LastName,FullName,Department,Rank,EmployeeType,Campus,MaxLoadHoursPerWeek,Email
+EDU-F001,Raj,Rodriguez,Raj Rodriguez,Physics,Lecturer,Full-Time,Hybrid,8,raj.rodriguez@temp-edu.org
+EDU-F002,Priya,Green,Priya Green,Computer Science,Adjunct,Full-Time,Toronto,15,priya.green@temp-edu.org
+EDU-F003,Kabir,Williams,Kabir Williams,Engineering Technology,Professor,Full-Time,Hybrid,8,kabir.williams@temp-edu.org
+EDU-F004,Sophia,Campbell,Sophia Campbell,Computer Science,Assistant Professor,Full-Time,Toronto,8,sophia.campbell@temp-edu.org
+EDU-F005,Michael,Davis,Michael Davis,Biology,Assistant Professor,Part-Time,Hybrid,12,michael.davis@temp-edu.org
+EDU-F006,Michael,Phillips,Michael Phillips,Business & Management,Professor,Part-Time,Toronto,12,michael.phillips@temp-edu.org
+EDU-F007,Lucas,Wright,Lucas Wright,Mathematics & Statistics,Assistant Professor,Part-Time,Remote,15,lucas.wright@temp-edu.org
+EDU-F008,Victoria,Thompson,Victoria Thompson,Economics,Lecturer,Full-Time,Remote,10,victoria.thompson@temp-edu.org
+EDU-F009,Amelia,Evans,Amelia Evans,Engineering Technology,Professor,Full-Time,Remote,12,amelia.evans@temp-edu.org
+EDU-F010,Abigail,Khan,Abigail Khan,Biology,Lecturer,Full-Time,Hybrid,15,abigail.khan@temp-edu.org
+EDU-F011,Charlotte,Edwards,Charlotte Edwards,Chemistry,Associate Professor,Full-Time,Toronto,8,charlotte.edwards@temp-edu.org
+EDU-F012,Madison,Wright,Madison Wright,Chemistry,Assistant Professor,Full-Time,Remote,15,madison.wright@temp-edu.org
+EDU-F013,Ethan,Jones,Ethan Jones,Biology,Assistant Professor,Part-Time,Toronto,12,ethan.jones@temp-edu.org
+EDU-F014,Evelyn,Scott,Evelyn Scott,Economics,Associate Professor,Full-Time,Hybrid,12,evelyn.scott@temp-edu.org
+EDU-F015,Noah,Wong,Noah Wong,Chemistry,Associate Professor,Full-Time,Toronto,10,noah.wong@temp-edu.org
+EDU-F016,Victoria,Moore,Victoria Moore,Business & Management,Lecturer,Full-Time,Remote,8,victoria.moore@temp-edu.org
+EDU-F017,Charlotte,Khan,Charlotte Khan,Physics,Assistant Professor,Adjunct,Remote,12,charlotte.khan@temp-edu.org
+EDU-F018,Nora,Thomson,Nora Thomson,Chemistry,Lecturer,Full-Time,Toronto,10,nora.thomson@temp-edu.org
+EDU-F019,Oliver,Hernandez,Oliver Hernandez,Business & Management,Associate Professor,Full-Time,Remote,10,oliver.hernandez@temp-edu.org
+EDU-F020,Harper,Moore,Harper Moore,Computer Science,Associate Professor,Part-Time,Hybrid,12,harper.moore@temp-edu.org
+EDU-F021,James,Evans,James Evans,Psychology,Adjunct,Part-Time,Hybrid,8,james.evans@temp-edu.org
+EDU-F022,Rohan,Stewart,Rohan Stewart,Psychology,Assistant Professor,Full-Time,Toronto,15,rohan.stewart@temp-edu.org
+EDU-F023,Sofia,Perez,Sofia Perez,Computer Science,Associate Professor,Adjunct,Remote,10,sofia.perez@temp-edu.org
+EDU-F024,Muhammad,White,Muhammad White,Computer Science,Professor,Part-Time,Hybrid,8,muhammad.white@temp-edu.org
+EDU-F025,Priya,Adams,Priya Adams,Computer Science,Professor,Full-Time,Remote,10,priya.adams@temp-edu.org
+EDU-F026,Sofia,Thomas,Sofia Thomas,Chemistry,Lecturer,Full-Time,Toronto,15,sofia.thomas@temp-edu.org
+EDU-F027,Rohan,Clark,Rohan Clark,Economics,Assistant Professor,Full-Time,Hybrid,12,rohan.clark@temp-edu.org
+EDU-F028,Samantha,Thomas,Samantha Thomas,Economics,Lecturer,Full-Time,Toronto,10,samantha.thomas@temp-edu.org
+EDU-F029,William,Martin,William Martin,Business & Management,Lecturer,Adjunct,Hybrid,12,william.martin@temp-edu.org
+EDU-F030,Evelyn,Jones,Evelyn Jones,Biology,Assistant Professor,Adjunct,Remote,10,evelyn.jones@temp-edu.org
+EDU-F031,Alexander,King,Alexander King,Psychology,Assistant Professor,Full-Time,Toronto,10,alexander.king@temp-edu.org
+EDU-F032,Arjun,Collins,Arjun Collins,Engineering Technology,Associate Professor,Full-Time,Hybrid,8,arjun.collins@temp-edu.org
+EDU-F033,Noah,Taylor,Noah Taylor,Economics,Associate Professor,Part-Time,Remote,15,noah.taylor@temp-edu.org
+EDU-F034,Abigail,Harris,Abigail Harris,Chemistry,Professor,Full-Time,Remote,10,abigail.harris@temp-edu.org
+EDU-F035,Simran,Gonzalez,Simran Gonzalez,Economics,Lecturer,Adjunct,Toronto,15,simran.gonzalez@temp-edu.org
+EDU-F036,Evelyn,Harris,Evelyn Harris,Mathematics & Statistics,Lecturer,Full-Time,Remote,10,evelyn.harris@temp-edu.org
+EDU-F037,Daniel,Hernandez,Daniel Hernandez,Physics,Lecturer,Full-Time,Hybrid,15,daniel.hernandez@temp-edu.org
+EDU-F038,Rohan,Perez,Rohan Perez,Mathematics & Statistics,Lecturer,Full-Time,Toronto,8,rohan.perez@temp-edu.org
+EDU-F039,Benjamin,Green,Benjamin Green,Economics,Lecturer,Full-Time,Hybrid,15,benjamin.green@temp-edu.org
+EDU-F040,Hannah,Harris,Hannah Harris,Business & Management,Assistant Professor,Full-Time,Toronto,8,hannah.harris@temp-edu.org
+EDU-F041,William,Collins,William Collins,Business & Management,Assistant Professor,Adjunct,Toronto,8,william.collins@temp-edu.org
+EDU-F042,Harper,Gonzalez,Harper Gonzalez,Biology,Assistant Professor,Adjunct,Remote,12,harper.gonzalez@temp-edu.org
+EDU-F043,Alexander,Thomson,Alexander Thomson,Business & Management,Professor,Adjunct,Remote,15,alexander.thomson@temp-edu.org
+EDU-F044,Jacob,Davis,Jacob Davis,Psychology,Associate Professor,Part-Time,Remote,10,jacob.davis@temp-edu.org
+EDU-F045,Zoe,Smith,Zoe Smith,Business & Management,Associate Professor,Full-Time,Hybrid,8,zoe.smith@temp-edu.org
+EDU-F046,Michael,Brown,Michael Brown,Chemistry,Lecturer,Part-Time,Remote,8,michael.brown@temp-edu.org
+EDU-F047,Michael,Brown,Michael Brown,Engineering Technology,Associate Professor,Full-Time,Toronto,15,michael.brown@temp-edu.org
+EDU-F048,Michael,Johnson,Michael Johnson,Mathematics & Statistics,Assistant Professor,Part-Time,Hybrid,10,michael.johnson@temp-edu.org
+EDU-F049,Layla,Taylor,Layla Taylor,Economics,Assistant Professor,Adjunct,Hybrid,10,layla.taylor@temp-edu.org
+EDU-F050,Layla,Allen,Layla Allen,Biology,Adjunct,Adjunct,Toronto,15,layla.allen@temp-edu.org
+EDU-F051,James,Thomson,James Thomson,Mathematics & Statistics,Assistant Professor,Full-Time,Hybrid,10,james.thomson@temp-edu.org
+EDU-F052,Anya,Williams,Anya Williams,Engineering Technology,Lecturer,Adjunct,Toronto,12,anya.williams@temp-edu.org
+EDU-F053,Benjamin,Thomas,Benjamin Thomas,Business & Management,Adjunct,Full-Time,Toronto,15,benjamin.thomas@temp-edu.org
+EDU-F054,Emma,Martinez,Emma Martinez,Engineering Technology,Associate Professor,Full-Time,Hybrid,15,emma.martinez@temp-edu.org
+EDU-F055,Simran,Thomson,Simran Thomson,Engineering Technology,Assistant Professor,Full-Time,Remote,8,simran.thomson@temp-edu.org
+EDU-F056,Simran,Wright,Simran Wright,Economics,Assistant Professor,Full-Time,Remote,12,simran.wright@temp-edu.org
+EDU-F057,Jacob,Williams,Jacob Williams,Mathematics & Statistics,Adjunct,Adjunct,Toronto,8,jacob.williams@temp-edu.org
+EDU-F058,Harper,Taylor,Harper Taylor,Computer Science,Adjunct,Full-Time,Toronto,15,harper.taylor@temp-edu.org
+EDU-F059,Scarlett,Thomas,Scarlett Thomas,Physics,Associate Professor,Adjunct,Hybrid,15,scarlett.thomas@temp-edu.org
+EDU-F060,Layla,Thompson,Layla Thompson,Mathematics & Statistics,Associate Professor,Adjunct,Toronto,15,layla.thompson@temp-edu.org
+EDU-F061,Ethan,Taylor,Ethan Taylor,Computer Science,Lecturer,Adjunct,Toronto,10,ethan.taylor@temp-edu.org
+EDU-F062,Ethan,Thomas,Ethan Thomas,Mathematics & Statistics,Assistant Professor,Full-Time,Hybrid,15,ethan.thomas@temp-edu.org
+EDU-F063,Emily,Adams,Emily Adams,Business & Management,Professor,Adjunct,Toronto,10,emily.adams@temp-edu.org
+EDU-F064,Harper,Brown,Harper Brown,Business & Management,Associate Professor,Full-Time,Remote,10,harper.brown@temp-edu.org
+EDU-F065,Aria,Khan,Aria Khan,Psychology,Lecturer,Full-Time,Toronto,12,aria.khan@temp-edu.org
+EDU-F066,Liam,Smith,Liam Smith,Computer Science,Lecturer,Part-Time,Toronto,15,liam.smith@temp-edu.org
+EDU-F067,Mia,Khan,Mia Khan,Mathematics & Statistics,Lecturer,Part-Time,Hybrid,15,mia.khan@temp-edu.org
+EDU-F068,Alexander,Perez,Alexander Perez,Psychology,Assistant Professor,Full-Time,Toronto,12,alexander.perez@temp-edu.org
+EDU-F069,Ava,Turner,Ava Turner,Business & Management,Assistant Professor,Full-Time,Toronto,10,ava.turner@temp-edu.org
+EDU-F070,Aarav,Williams,Aarav Williams,Biology,Assistant Professor,Full-Time,Hybrid,15,aarav.williams@temp-edu.org
+EDU-F071,Jacob,Carter,Jacob Carter,Biology,Lecturer,Part-Time,Toronto,15,jacob.carter@temp-edu.org
+EDU-F072,Amelia,Martinez,Amelia Martinez,Biology,Assistant Professor,Full-Time,Remote,12,amelia.martinez@temp-edu.org
+EDU-F073,Mia,Patel,Mia Patel,Biology,Associate Professor,Full-Time,Remote,15,mia.patel@temp-edu.org
+EDU-F074,Oliver,Clark,Oliver Clark,Biology,Assistant Professor,Full-Time,Hybrid,8,oliver.clark@temp-edu.org
+EDU-F075,Oliver,Thomas,Oliver Thomas,Mathematics & Statistics,Associate Professor,Part-Time,Remote,8,oliver.thomas@temp-edu.org
+EDU-F076,Ella,Jackson,Ella Jackson,Engineering Technology,Professor,Adjunct,Toronto,15,ella.jackson@temp-edu.org
+EDU-F077,Madison,Thompson,Madison Thompson,Economics,Associate Professor,Adjunct,Hybrid,10,madison.thompson@temp-edu.org
+EDU-F078,Liam,Turner,Liam Turner,Psychology,Lecturer,Adjunct,Hybrid,10,liam.turner@temp-edu.org
+EDU-F079,William,Edwards,William Edwards,Psychology,Assistant Professor,Adjunct,Toronto,10,william.edwards@temp-edu.org
+EDU-F080,Oliver,Johnson,Oliver Johnson,Computer Science,Associate Professor,Full-Time,Toronto,15,oliver.johnson@temp-edu.org
+EDU-F081,Ishaan,Wright,Ishaan Wright,Computer Science,Lecturer,Part-Time,Hybrid,10,ishaan.wright@temp-edu.org
+EDU-F082,Emma,Thomas,Emma Thomas,Computer Science,Assistant Professor,Full-Time,Hybrid,8,emma.thomas@temp-edu.org
+EDU-F083,Hannah,Allen,Hannah Allen,Mathematics & Statistics,Lecturer,Full-Time,Toronto,12,hannah.allen@temp-edu.org
+EDU-F084,Mia,Parker,Mia Parker,Engineering Technology,Associate Professor,Part-Time,Remote,15,mia.parker@temp-edu.org
+EDU-F085,Neha,Williams,Neha Williams,Economics,Adjunct,Full-Time,Toronto,10,neha.williams@temp-edu.org
+EDU-F086,Ethan,Baker,Ethan Baker,Business & Management,Assistant Professor,Part-Time,Hybrid,12,ethan.baker@temp-edu.org
+EDU-F087,Lily,Scott,Lily Scott,Business & Management,Professor,Full-Time,Remote,8,lily.scott@temp-edu.org
+EDU-F088,Layla,Gonzalez,Layla Gonzalez,Economics,Associate Professor,Part-Time,Remote,15,layla.gonzalez@temp-edu.org
+EDU-F089,Rohan,Stewart,Rohan Stewart,Mathematics & Statistics,Adjunct,Part-Time,Remote,8,rohan.stewart@temp-edu.org
+EDU-F090,Daniel,Johnson,Daniel Johnson,Biology,Assistant Professor,Adjunct,Remote,12,daniel.johnson@temp-edu.org
+EDU-F091,Neha,Gonzalez,Neha Gonzalez,Engineering Technology,Professor,Full-Time,Hybrid,12,neha.gonzalez@temp-edu.org
+EDU-F092,Priya,Davis,Priya Davis,Psychology,Associate Professor,Full-Time,Remote,10,priya.davis@temp-edu.org
+EDU-F093,Emma,Lewis,Emma Lewis,Physics,Professor,Full-Time,Remote,15,emma.lewis@temp-edu.org
+EDU-F094,Arjun,Jackson,Arjun Jackson,Business & Management,Assistant Professor,Full-Time,Toronto,12,arjun.jackson@temp-edu.org
+EDU-F095,Aarav,Thompson,Aarav Thompson,Chemistry,Lecturer,Full-Time,Toronto,8,aarav.thompson@temp-edu.org
+EDU-F096,Samantha,Moore,Samantha Moore,Biology,Assistant Professor,Full-Time,Hybrid,8,samantha.moore@temp-edu.org
+EDU-F097,Priya,Singh,Priya Singh,Biology,Lecturer,Full-Time,Toronto,12,priya.singh@temp-edu.org
+EDU-F098,Sofia,Rodriguez,Sofia Rodriguez,Engineering Technology,Adjunct,Full-Time,Remote,10,sofia.rodriguez@temp-edu.org
+EDU-F099,Victoria,Martin,Victoria Martin,Physics,Adjunct,Adjunct,Hybrid,15,victoria.martin@temp-edu.org
+EDU-F100,Michael,Wright,Michael Wright,Engineering Technology,Lecturer,Full-Time,Hybrid,15,michael.wright@temp-edu.org
+EDU-F101,Ishaan,Adams,Ishaan Adams,Business & Management,Lecturer,Full-Time,Toronto,10,ishaan.adams@temp-edu.org
+EDU-F102,Charlotte,Clark,Charlotte Clark,Physics,Assistant Professor,Full-Time,Hybrid,12,charlotte.clark@temp-edu.org
+EDU-F103,Arjun,Mitchell,Arjun Mitchell,Engineering Technology,Assistant Professor,Part-Time,Remote,8,arjun.mitchell@temp-edu.org
+EDU-F104,Charlotte,Mitchell,Charlotte Mitchell,Business & Management,Professor,Part-Time,Remote,10,charlotte.mitchell@temp-edu.org
+EDU-F105,Ishaan,White,Ishaan White,Economics,Assistant Professor,Part-Time,Toronto,8,ishaan.white@temp-edu.org
+EDU-F106,Amelia,White,Amelia White,Psychology,Professor,Full-Time,Remote,10,amelia.white@temp-edu.org
+EDU-F107,Noah,Collins,Noah Collins,Physics,Assistant Professor,Adjunct,Toronto,15,noah.collins@temp-edu.org
+EDU-F108,Emily,White,Emily White,Computer Science,Assistant Professor,Part-Time,Remote,10,emily.white@temp-edu.org
+EDU-F109,Scarlett,Young,Scarlett Young,Psychology,Lecturer,Adjunct,Toronto,8,scarlett.young@temp-edu.org
+EDU-F110,Emily,Anderson,Emily Anderson,Physics,Assistant Professor,Full-Time,Remote,8,emily.anderson@temp-edu.org
+EDU-F111,James,Patel,James Patel,Physics,Lecturer,Adjunct,Remote,15,james.patel@temp-edu.org
+EDU-F112,Aarav,Williams,Aarav Williams,Physics,Adjunct,Adjunct,Hybrid,15,aarav.williams@temp-edu.org
+EDU-F113,Ishaan,Anderson,Ishaan Anderson,Mathematics & Statistics,Associate Professor,Full-Time,Hybrid,8,ishaan.anderson@temp-edu.org
+EDU-F114,Abigail,Evans,Abigail Evans,Economics,Professor,Adjunct,Toronto,10,abigail.evans@temp-edu.org
+EDU-F115,Sophia,Scott,Sophia Scott,Computer Science,Lecturer,Full-Time,Toronto,12,sophia.scott@temp-edu.org
+EDU-F116,William,Campbell,William Campbell,Physics,Lecturer,Full-Time,Toronto,12,william.campbell@temp-edu.org
+EDU-F117,William,Green,William Green,Engineering Technology,Assistant Professor,Full-Time,Hybrid,8,william.green@temp-edu.org
+EDU-F118,Aarav,King,Aarav King,Biology,Adjunct,Full-Time,Remote,10,aarav.king@temp-edu.org
+EDU-F119,Daniel,Allen,Daniel Allen,Engineering Technology,Assistant Professor,Full-Time,Remote,12,daniel.allen@temp-edu.org
+EDU-F120,Aiden,Johnson,Aiden Johnson,Engineering Technology,Assistant Professor,Part-Time,Remote,8,aiden.johnson@temp-edu.org
+EDU-F121,Harper,Wilson,Harper Wilson,Physics,Adjunct,Full-Time,Toronto,12,harper.wilson@temp-edu.org
+EDU-F122,Nora,Thomson,Nora Thomson,Chemistry,Lecturer,Full-Time,Remote,8,nora.thomson@temp-edu.org
+EDU-F123,Olivia,Lewis,Olivia Lewis,Engineering Technology,Assistant Professor,Adjunct,Toronto,15,olivia.lewis@temp-edu.org
+EDU-F124,Sophia,Thomas,Sophia Thomas,Biology,Professor,Part-Time,Hybrid,10,sophia.thomas@temp-edu.org
+EDU-F125,Sophia,Lewis,Sophia Lewis,Physics,Adjunct,Full-Time,Hybrid,10,sophia.lewis@temp-edu.org
+EDU-F126,Arjun,Brown,Arjun Brown,Engineering Technology,Professor,Part-Time,Remote,8,arjun.brown@temp-edu.org
+EDU-F127,Nora,Brown,Nora Brown,Business & Management,Assistant Professor,Adjunct,Remote,8,nora.brown@temp-edu.org
+EDU-F128,Oliver,Martinez,Oliver Martinez,Chemistry,Associate Professor,Part-Time,Hybrid,15,oliver.martinez@temp-edu.org
+EDU-F129,Liam,Jackson,Liam Jackson,Physics,Lecturer,Adjunct,Remote,10,liam.jackson@temp-edu.org
+EDU-F130,Lucas,Smith,Lucas Smith,Mathematics & Statistics,Associate Professor,Full-Time,Toronto,10,lucas.smith@temp-edu.org
+EDU-F131,Neha,Harris,Neha Harris,Biology,Lecturer,Full-Time,Toronto,15,neha.harris@temp-edu.org
+EDU-F132,Ava,Martin,Ava Martin,Psychology,Adjunct,Full-Time,Remote,15,ava.martin@temp-edu.org
+EDU-F133,Noah,Campbell,Noah Campbell,Physics,Associate Professor,Part-Time,Remote,8,noah.campbell@temp-edu.org
+EDU-F134,Neha,Patel,Neha Patel,Economics,Professor,Adjunct,Remote,10,neha.patel@temp-edu.org
+EDU-F135,Samantha,Williams,Samantha Williams,Chemistry,Assistant Professor,Full-Time,Hybrid,8,samantha.williams@temp-edu.org
+EDU-F136,Harper,Collins,Harper Collins,Chemistry,Adjunct,Full-Time,Hybrid,8,harper.collins@temp-edu.org
+EDU-F137,Noah,Wilson,Noah Wilson,Mathematics & Statistics,Assistant Professor,Adjunct,Remote,12,noah.wilson@temp-edu.org
+EDU-F138,Anya,Lewis,Anya Lewis,Business & Management,Adjunct,Full-Time,Hybrid,12,anya.lewis@temp-edu.org
+EDU-F139,Layla,Stewart,Layla Stewart,Business & Management,Lecturer,Full-Time,Remote,15,layla.stewart@temp-edu.org
+EDU-F140,Priya,Baker,Priya Baker,Mathematics & Statistics,Assistant Professor,Full-Time,Toronto,10,priya.baker@temp-edu.org
+EDU-F141,Kabir,Williams,Kabir Williams,Computer Science,Assistant Professor,Part-Time,Toronto,15,kabir.williams@temp-edu.org
+EDU-F142,Lucas,Williams,Lucas Williams,Biology,Lecturer,Full-Time,Remote,15,lucas.williams@temp-edu.org
+EDU-F143,Nora,Khan,Nora Khan,Business & Management,Associate Professor,Full-Time,Hybrid,10,nora.khan@temp-edu.org
+EDU-F144,Samantha,King,Samantha King,Mathematics & Statistics,Lecturer,Full-Time,Remote,12,samantha.king@temp-edu.org
+EDU-F145,Priya,Thomas,Priya Thomas,Biology,Associate Professor,Full-Time,Toronto,10,priya.thomas@temp-edu.org
+EDU-F146,Benjamin,Moore,Benjamin Moore,Engineering Technology,Assistant Professor,Full-Time,Toronto,10,benjamin.moore@temp-edu.org
+EDU-F147,Evelyn,Garcia,Evelyn Garcia,Economics,Adjunct,Full-Time,Remote,10,evelyn.garcia@temp-edu.org
+EDU-F148,Ishaan,Martin,Ishaan Martin,Computer Science,Adjunct,Full-Time,Toronto,10,ishaan.martin@temp-edu.org
+EDU-F149,Zoe,Green,Zoe Green,Engineering Technology,Adjunct,Full-Time,Toronto,15,zoe.green@temp-edu.org
+EDU-F150,Zoe,Thomas,Zoe Thomas,Computer Science,Professor,Part-Time,Hybrid,12,zoe.thomas@temp-edu.org
+EDU-F151,Olivia,Patel,Olivia Patel,Chemistry,Assistant Professor,Full-Time,Remote,8,olivia.patel@temp-edu.org
+EDU-F152,Zoe,Parker,Zoe Parker,Engineering Technology,Lecturer,Adjunct,Remote,12,zoe.parker@temp-edu.org
+EDU-F153,Amelia,Adams,Amelia Adams,Biology,Professor,Full-Time,Remote,15,amelia.adams@temp-edu.org
+EDU-F154,Ethan,Thomson,Ethan Thomson,Mathematics & Statistics,Lecturer,Part-Time,Toronto,8,ethan.thomson@temp-edu.org
+EDU-F155,Evelyn,Martinez,Evelyn Martinez,Physics,Lecturer,Full-Time,Remote,12,evelyn.martinez@temp-edu.org
+EDU-F156,Kabir,Brown,Kabir Brown,Biology,Lecturer,Adjunct,Remote,15,kabir.brown@temp-edu.org
+EDU-F157,Noah,Stewart,Noah Stewart,Chemistry,Lecturer,Full-Time,Remote,10,noah.stewart@temp-edu.org
+EDU-F158,Aarav,Singh,Aarav Singh,Business & Management,Assistant Professor,Adjunct,Remote,12,aarav.singh@temp-edu.org
+EDU-F159,Rohan,Stewart,Rohan Stewart,Business & Management,Associate Professor,Full-Time,Toronto,15,rohan.stewart@temp-edu.org
+EDU-F160,Oliver,Scott,Oliver Scott,Chemistry,Lecturer,Full-Time,Remote,12,oliver.scott@temp-edu.org
+EDU-F161,Charlotte,Allen,Charlotte Allen,Business & Management,Adjunct,Full-Time,Remote,10,charlotte.allen@temp-edu.org
+EDU-F162,Ella,Davis,Ella Davis,Computer Science,Adjunct,Full-Time,Toronto,15,ella.davis@temp-edu.org
+EDU-F163,Oliver,Turner,Oliver Turner,Business & Management,Lecturer,Adjunct,Hybrid,15,oliver.turner@temp-edu.org
+EDU-F164,Lily,Lopez,Lily Lopez,Economics,Associate Professor,Full-Time,Remote,10,lily.lopez@temp-edu.org
+EDU-F165,Neha,Harris,Neha Harris,Mathematics & Statistics,Associate Professor,Adjunct,Toronto,8,neha.harris@temp-edu.org
+EDU-F166,Michael,Edwards,Michael Edwards,Computer Science,Lecturer,Full-Time,Remote,15,michael.edwards@temp-edu.org
+EDU-F167,Michael,Campbell,Michael Campbell,Biology,Lecturer,Full-Time,Toronto,15,michael.campbell@temp-edu.org
+EDU-F168,Neha,Carter,Neha Carter,Chemistry,Assistant Professor,Full-Time,Toronto,8,neha.carter@temp-edu.org
+EDU-F169,Lily,Lewis,Lily Lewis,Economics,Associate Professor,Adjunct,Remote,10,lily.lewis@temp-edu.org
+EDU-F170,Daniel,Perez,Daniel Perez,Mathematics & Statistics,Professor,Full-Time,Remote,8,daniel.perez@temp-edu.org
+EDU-F171,Ishaan,Young,Ishaan Young,Psychology,Lecturer,Full-Time,Toronto,8,ishaan.young@temp-edu.org
+EDU-F172,Abigail,Thompson,Abigail Thompson,Psychology,Professor,Adjunct,Remote,10,abigail.thompson@temp-edu.org
+EDU-F173,Noah,Williams,Noah Williams,Mathematics & Statistics,Associate Professor,Adjunct,Remote,12,noah.williams@temp-edu.org
+EDU-F174,Charlotte,Phillips,Charlotte Phillips,Engineering Technology,Professor,Full-Time,Remote,10,charlotte.phillips@temp-edu.org
+EDU-F175,Raj,Adams,Raj Adams,Biology,Adjunct,Full-Time,Remote,15,raj.adams@temp-edu.org
+EDU-F176,Olivia,Green,Olivia Green,Biology,Lecturer,Full-Time,Remote,8,olivia.green@temp-edu.org
+EDU-F177,Ava,Hernandez,Ava Hernandez,Physics,Associate Professor,Adjunct,Hybrid,12,ava.hernandez@temp-edu.org
+EDU-F178,Neha,Martinez,Neha Martinez,Biology,Professor,Part-Time,Hybrid,12,neha.martinez@temp-edu.org
+EDU-F179,Ishaan,Wright,Ishaan Wright,Psychology,Lecturer,Adjunct,Toronto,12,ishaan.wright@temp-edu.org
+EDU-F180,Alexander,Campbell,Alexander Campbell,Physics,Lecturer,Full-Time,Remote,12,alexander.campbell@temp-edu.org
+EDU-F181,Grace,Rodriguez,Grace Rodriguez,Chemistry,Assistant Professor,Full-Time,Toronto,10,grace.rodriguez@temp-edu.org
+EDU-F182,Lily,Collins,Lily Collins,Computer Science,Associate Professor,Part-Time,Remote,12,lily.collins@temp-edu.org
+EDU-F183,Abigail,Smith,Abigail Smith,Computer Science,Associate Professor,Full-Time,Hybrid,15,abigail.smith@temp-edu.org
+EDU-F184,Kabir,Young,Kabir Young,Chemistry,Adjunct,Full-Time,Toronto,8,kabir.young@temp-edu.org
+EDU-F185,Noah,Brown,Noah Brown,Computer Science,Assistant Professor,Full-Time,Hybrid,12,noah.brown@temp-edu.org
+EDU-F186,Alexander,Wilson,Alexander Wilson,Physics,Lecturer,Part-Time,Toronto,12,alexander.wilson@temp-edu.org
+EDU-F187,Lily,Clark,Lily Clark,Business & Management,Associate Professor,Adjunct,Toronto,10,lily.clark@temp-edu.org
+EDU-F188,Ishaan,Garcia,Ishaan Garcia,Mathematics & Statistics,Lecturer,Adjunct,Remote,15,ishaan.garcia@temp-edu.org
+EDU-F189,Harper,Smith,Harper Smith,Computer Science,Lecturer,Part-Time,Remote,15,harper.smith@temp-edu.org
+EDU-F190,Zoe,Allen,Zoe Allen,Economics,Associate Professor,Adjunct,Toronto,8,zoe.allen@temp-edu.org
+EDU-F191,Alexander,Johnson,Alexander Johnson,Physics,Associate Professor,Full-Time,Toronto,8,alexander.johnson@temp-edu.org
+EDU-F192,Lily,Wright,Lily Wright,Engineering Technology,Associate Professor,Full-Time,Hybrid,15,lily.wright@temp-edu.org
+EDU-F193,Lily,Hernandez,Lily Hernandez,Psychology,Assistant Professor,Full-Time,Toronto,15,lily.hernandez@temp-edu.org
+EDU-F194,Nora,King,Nora King,Computer Science,Assistant Professor,Full-Time,Remote,8,nora.king@temp-edu.org
+EDU-F195,Samantha,Mitchell,Samantha Mitchell,Economics,Associate Professor,Adjunct,Remote,10,samantha.mitchell@temp-edu.org
+EDU-F196,Evelyn,Patel,Evelyn Patel,Mathematics & Statistics,Assistant Professor,Adjunct,Hybrid,12,evelyn.patel@temp-edu.org
+EDU-F197,Nora,Brown,Nora Brown,Biology,Lecturer,Part-Time,Hybrid,12,nora.brown@temp-edu.org
+EDU-F198,Aria,Mitchell,Aria Mitchell,Engineering Technology,Professor,Part-Time,Toronto,12,aria.mitchell@temp-edu.org
+EDU-F199,Mia,Collins,Mia Collins,Engineering Technology,Adjunct,Adjunct,Remote,10,mia.collins@temp-edu.org
+EDU-F200,Neha,White,Neha White,Engineering Technology,Assistant Professor,Adjunct,Hybrid,15,neha.white@temp-edu.org
+EDU-F201,Daniel,Allen,Daniel Allen,Computer Science,Lecturer,Full-Time,Hybrid,10,daniel.allen@temp-edu.org
+EDU-F202,Grace,Jackson,Grace Jackson,Engineering Technology,Assistant Professor,Part-Time,Hybrid,10,grace.jackson@temp-edu.org
+EDU-F203,Benjamin,Patel,Benjamin Patel,Computer Science,Professor,Part-Time,Toronto,12,benjamin.patel@temp-edu.org
+EDU-F204,Benjamin,Evans,Benjamin Evans,Computer Science,Professor,Full-Time,Hybrid,8,benjamin.evans@temp-edu.org
+EDU-F205,Layla,Williams,Layla Williams,Computer Science,Professor,Part-Time,Remote,10,layla.williams@temp-edu.org
+EDU-F206,Alexander,Carter,Alexander Carter,Mathematics & Statistics,Adjunct,Adjunct,Hybrid,15,alexander.carter@temp-edu.org
+EDU-F207,Lucas,Anderson,Lucas Anderson,Engineering Technology,Associate Professor,Full-Time,Hybrid,8,lucas.anderson@temp-edu.org
+EDU-F208,Madison,Campbell,Madison Campbell,Biology,Assistant Professor,Full-Time,Hybrid,10,madison.campbell@temp-edu.org
+EDU-F209,Aria,Thompson,Aria Thompson,Chemistry,Assistant Professor,Full-Time,Remote,12,aria.thompson@temp-edu.org
+EDU-F210,Aiden,Turner,Aiden Turner,Chemistry,Adjunct,Adjunct,Hybrid,15,aiden.turner@temp-edu.org
+EDU-F211,Aria,Adams,Aria Adams,Computer Science,Lecturer,Full-Time,Hybrid,8,aria.adams@temp-edu.org
+EDU-F212,Karan,Clark,Karan Clark,Computer Science,Assistant Professor,Full-Time,Toronto,12,karan.clark@temp-edu.org
+EDU-F213,Charlotte,Singh,Charlotte Singh,Computer Science,Assistant Professor,Full-Time,Toronto,8,charlotte.singh@temp-edu.org
+EDU-F214,Karan,Lewis,Karan Lewis,Mathematics & Statistics,Assistant Professor,Adjunct,Toronto,15,karan.lewis@temp-edu.org
+EDU-F215,Chloe,Harris,Chloe Harris,Psychology,Associate Professor,Adjunct,Remote,10,chloe.harris@temp-edu.org
+EDU-F216,Layla,Wilson,Layla Wilson,Economics,Associate Professor,Adjunct,Toronto,15,layla.wilson@temp-edu.org
+EDU-F217,Layla,Wright,Layla Wright,Mathematics & Statistics,Lecturer,Full-Time,Remote,15,layla.wright@temp-edu.org
+EDU-F218,Samantha,Jones,Samantha Jones,Physics,Adjunct,Full-Time,Toronto,12,samantha.jones@temp-edu.org
+EDU-F219,Harper,Singh,Harper Singh,Psychology,Assistant Professor,Full-Time,Hybrid,10,harper.singh@temp-edu.org
+EDU-F220,Rohan,Davis,Rohan Davis,Psychology,Lecturer,Part-Time,Hybrid,8,rohan.davis@temp-edu.org
+EDU-F221,Karan,Green,Karan Green,Chemistry,Assistant Professor,Adjunct,Remote,12,karan.green@temp-edu.org
+EDU-F222,Charlotte,Wong,Charlotte Wong,Economics,Lecturer,Full-Time,Toronto,10,charlotte.wong@temp-edu.org
+EDU-F223,Simran,Wong,Simran Wong,Engineering Technology,Assistant Professor,Full-Time,Hybrid,10,simran.wong@temp-edu.org
+EDU-F224,Abigail,Rodriguez,Abigail Rodriguez,Engineering Technology,Lecturer,Part-Time,Remote,10,abigail.rodriguez@temp-edu.org
+EDU-F225,Mia,Thompson,Mia Thompson,Engineering Technology,Associate Professor,Adjunct,Toronto,10,mia.thompson@temp-edu.org
+EDU-F226,Hannah,Garcia,Hannah Garcia,Engineering Technology,Assistant Professor,Adjunct,Remote,12,hannah.garcia@temp-edu.org
+EDU-F227,Anya,Taylor,Anya Taylor,Engineering Technology,Professor,Adjunct,Remote,10,anya.taylor@temp-edu.org
+EDU-F228,Neha,Wong,Neha Wong,Computer Science,Professor,Adjunct,Remote,10,neha.wong@temp-edu.org
+EDU-F229,Jacob,Campbell,Jacob Campbell,Biology,Assistant Professor,Full-Time,Hybrid,15,jacob.campbell@temp-edu.org
+EDU-F230,Aarav,Collins,Aarav Collins,Engineering Technology,Adjunct,Full-Time,Hybrid,15,aarav.collins@temp-edu.org
+EDU-F231,Sophia,Carter,Sophia Carter,Engineering Technology,Lecturer,Part-Time,Remote,15,sophia.carter@temp-edu.org
+EDU-F232,Raj,Thomas,Raj Thomas,Mathematics & Statistics,Adjunct,Full-Time,Remote,10,raj.thomas@temp-edu.org
+EDU-F233,Harper,Singh,Harper Singh,Economics,Assistant Professor,Part-Time,Remote,10,harper.singh@temp-edu.org
+EDU-F234,Evelyn,Thompson,Evelyn Thompson,Computer Science,Assistant Professor,Full-Time,Toronto,8,evelyn.thompson@temp-edu.org
+EDU-F235,Harper,King,Harper King,Engineering Technology,Associate Professor,Adjunct,Toronto,12,harper.king@temp-edu.org
+EDU-F236,Lucas,Scott,Lucas Scott,Economics,Assistant Professor,Adjunct,Hybrid,8,lucas.scott@temp-edu.org
+EDU-F237,Sofia,Martin,Sofia Martin,Psychology,Assistant Professor,Adjunct,Remote,10,sofia.martin@temp-edu.org
+EDU-F238,Scarlett,Hernandez,Scarlett Hernandez,Physics,Assistant Professor,Adjunct,Hybrid,12,scarlett.hernandez@temp-edu.org
+EDU-F239,Sofia,Brown,Sofia Brown,Biology,Associate Professor,Full-Time,Toronto,8,sofia.brown@temp-edu.org
+EDU-F240,Kabir,Thomson,Kabir Thomson,Chemistry,Lecturer,Full-Time,Remote,15,kabir.thomson@temp-edu.org
+EDU-F241,William,Wilson,William Wilson,Physics,Assistant Professor,Full-Time,Toronto,10,william.wilson@temp-edu.org
+EDU-F242,Daniel,Mitchell,Daniel Mitchell,Psychology,Lecturer,Adjunct,Toronto,12,daniel.mitchell@temp-edu.org
+EDU-F243,Hannah,Campbell,Hannah Campbell,Physics,Assistant Professor,Full-Time,Hybrid,10,hannah.campbell@temp-edu.org
+EDU-F244,Victoria,Clark,Victoria Clark,Chemistry,Lecturer,Full-Time,Hybrid,15,victoria.clark@temp-edu.org
+EDU-F245,Scarlett,Thomas,Scarlett Thomas,Physics,Lecturer,Full-Time,Hybrid,12,scarlett.thomas@temp-edu.org
+EDU-F246,Karan,Anderson,Karan Anderson,Biology,Assistant Professor,Full-Time,Hybrid,8,karan.anderson@temp-edu.org
+EDU-F247,Hannah,Martin,Hannah Martin,Business & Management,Adjunct,Adjunct,Toronto,8,hannah.martin@temp-edu.org
+EDU-F248,Grace,Thompson,Grace Thompson,Business & Management,Assistant Professor,Full-Time,Hybrid,8,grace.thompson@temp-edu.org
+EDU-F249,Hannah,Smith,Hannah Smith,Engineering Technology,Adjunct,Part-Time,Remote,8,hannah.smith@temp-edu.org
+EDU-F250,Chloe,Rodriguez,Chloe Rodriguez,Engineering Technology,Associate Professor,Full-Time,Toronto,10,chloe.rodriguez@temp-edu.org
+EDU-F251,Arjun,King,Arjun King,Business & Management,Lecturer,Part-Time,Toronto,12,arjun.king@temp-edu.org
+EDU-F252,Ava,Lewis,Ava Lewis,Engineering Technology,Assistant Professor,Adjunct,Remote,8,ava.lewis@temp-edu.org
+EDU-F253,Michael,Miller,Michael Miller,Biology,Assistant Professor,Adjunct,Remote,15,michael.miller@temp-edu.org
+EDU-F254,Michael,Brown,Michael Brown,Economics,Assistant Professor,Full-Time,Remote,10,michael.brown@temp-edu.org
+EDU-F255,Emma,Martinez,Emma Martinez,Psychology,Lecturer,Adjunct,Toronto,12,emma.martinez@temp-edu.org
+EDU-F256,Rohan,Evans,Rohan Evans,Economics,Lecturer,Adjunct,Remote,15,rohan.evans@temp-edu.org
+EDU-F257,Kabir,Phillips,Kabir Phillips,Mathematics & Statistics,Associate Professor,Full-Time,Hybrid,8,kabir.phillips@temp-edu.org
+EDU-F258,Noah,Adams,Noah Adams,Computer Science,Lecturer,Adjunct,Remote,8,noah.adams@temp-edu.org
+EDU-F259,Jacob,Clark,Jacob Clark,Economics,Lecturer,Full-Time,Toronto,15,jacob.clark@temp-edu.org
+EDU-F260,Sofia,Davis,Sofia Davis,Chemistry,Professor,Part-Time,Remote,15,sofia.davis@temp-edu.org
+EDU-F261,Victoria,Allen,Victoria Allen,Psychology,Lecturer,Full-Time,Remote,12,victoria.allen@temp-edu.org
+EDU-F262,Anya,Thomas,Anya Thomas,Psychology,Professor,Full-Time,Remote,15,anya.thomas@temp-edu.org
+EDU-F263,Arjun,White,Arjun White,Psychology,Adjunct,Adjunct,Remote,10,arjun.white@temp-edu.org
+EDU-F264,Evelyn,Lewis,Evelyn Lewis,Mathematics & Statistics,Assistant Professor,Full-Time,Remote,10,evelyn.lewis@temp-edu.org
+EDU-F265,Chloe,Campbell,Chloe Campbell,Mathematics & Statistics,Lecturer,Full-Time,Hybrid,15,chloe.campbell@temp-edu.org
+EDU-F266,Alexander,Scott,Alexander Scott,Computer Science,Assistant Professor,Full-Time,Toronto,10,alexander.scott@temp-edu.org
+EDU-F267,Daniel,Baker,Daniel Baker,Computer Science,Lecturer,Adjunct,Hybrid,15,daniel.baker@temp-edu.org
+EDU-F268,Lily,Rodriguez,Lily Rodriguez,Mathematics & Statistics,Associate Professor,Part-Time,Remote,10,lily.rodriguez@temp-edu.org
+EDU-F269,Lucas,Carter,Lucas Carter,Business & Management,Adjunct,Full-Time,Toronto,8,lucas.carter@temp-edu.org
+EDU-F270,Priya,Davis,Priya Davis,Biology,Assistant Professor,Full-Time,Remote,10,priya.davis@temp-edu.org
+EDU-F271,Kabir,Patel,Kabir Patel,Chemistry,Professor,Part-Time,Hybrid,8,kabir.patel@temp-edu.org
+EDU-F272,Emma,Scott,Emma Scott,Psychology,Professor,Full-Time,Remote,15,emma.scott@temp-edu.org
+EDU-F273,Ishaan,Williams,Ishaan Williams,Computer Science,Lecturer,Part-Time,Hybrid,10,ishaan.williams@temp-edu.org
+EDU-F274,Daniel,Stewart,Daniel Stewart,Physics,Assistant Professor,Full-Time,Remote,10,daniel.stewart@temp-edu.org
+EDU-F275,Benjamin,Campbell,Benjamin Campbell,Computer Science,Assistant Professor,Full-Time,Hybrid,8,benjamin.campbell@temp-edu.org
+EDU-F276,Oliver,Gonzalez,Oliver Gonzalez,Mathematics & Statistics,Associate Professor,Full-Time,Hybrid,10,oliver.gonzalez@temp-edu.org
+EDU-F277,Ishaan,Parker,Ishaan Parker,Business & Management,Adjunct,Full-Time,Hybrid,10,ishaan.parker@temp-edu.org
+EDU-F278,Abigail,Edwards,Abigail Edwards,Mathematics & Statistics,Associate Professor,Part-Time,Remote,15,abigail.edwards@temp-edu.org
+EDU-F279,Hannah,Thomas,Hannah Thomas,Computer Science,Lecturer,Full-Time,Toronto,8,hannah.thomas@temp-edu.org
+EDU-F280,Neha,Jackson,Neha Jackson,Biology,Lecturer,Full-Time,Remote,8,neha.jackson@temp-edu.org
+EDU-F006,Michael,Phillips,Michael Phillips,Business & Management,Professor,Part-Time,Toronto,12,michael.phillips@temp-edu.org

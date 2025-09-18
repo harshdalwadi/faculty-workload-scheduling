@@ -1,0 +1,67 @@
+CourseCode,CourseName,Department,Credits,ContactHoursPerWeek,Term,DeliveryMode
+CHEM288,Chemometrics,Chemistry,4,6,Spring 2025,In-Person
+BUS159,Operations Management,Business & Management,3,3,Spring 2025,Online
+ECON297,Game Theory,Economics,4,4,Spring 2025,Online
+BIO243,Genetics,Biology,4,4,Spring 2025,Hybrid
+CS177,Cloud Computing,Computer Science,4,4,Spring 2025,Online
+ENGT292,IoT Fundamentals,Engineering Technology,4,6,Spring 2025,In-Person
+ECON245,Microeconomics,Economics,4,4,Winter 2025,Online
+PHYS180,Classical Mechanics,Physics,4,4,Fall 2024,Hybrid
+BUS240,Project Management,Business & Management,4,6,Winter 2025,Hybrid
+MTH376,Time Series Analysis,Mathematics & Statistics,4,6,Winter 2025,In-Person
+ENGT258,Quality Assurance,Engineering Technology,3,2,Spring 2025,Online
+ECON462,Macroeconomics,Economics,4,4,Spring 2025,In-Person
+PHYS335,Classical Mechanics,Physics,4,4,Fall 2024,In-Person
+PHYS396,Thermodynamics,Physics,4,4,Winter 2025,Hybrid
+ENGT196,Systems Integration,Engineering Technology,3,3,Fall 2024,In-Person
+BIO285,Bioinformatics,Biology,4,4,Winter 2025,Hybrid
+BUS226,Financial Accounting,Business & Management,4,6,Winter 2025,In-Person
+CHEM423,Chemometrics,Chemistry,3,2,Fall 2024,Online
+CS276,Machine Learning,Computer Science,3,2,Fall 2024,In-Person
+ENGT389,IoT Fundamentals,Engineering Technology,3,3,Winter 2025,Online
+PHYS149,Computational Physics,Physics,3,3,Winter 2025,In-Person
+CHEM202,Analytical Chemistry,Chemistry,4,6,Fall 2024,In-Person
+CS117,Cloud Computing,Computer Science,4,4,Spring 2025,Online
+ECON132,Game Theory,Economics,3,2,Spring 2025,In-Person
+BIO263,Bioinformatics,Biology,3,3,Spring 2025,In-Person
+PSYC301,Research Methods,Psychology,4,6,Fall 2024,Online
+ENGT469,Systems Integration,Engineering Technology,3,3,Fall 2024,Online
+CHEM130,Organic Chemistry,Chemistry,3,2,Winter 2025,Hybrid
+ECON128,Microeconomics,Economics,3,3,Winter 2025,In-Person
+ENGT446,Network Architecture,Engineering Technology,4,6,Spring 2025,In-Person
+ECON265,Econometrics,Economics,4,4,Winter 2025,In-Person
+CHEM346,Chemometrics,Chemistry,3,3,Winter 2025,In-Person
+BUS446,Financial Accounting,Business & Management,4,6,Spring 2025,In-Person
+CS180,Software Engineering,Computer Science,3,3,Fall 2024,Hybrid
+CHEM483,Analytical Chemistry,Chemistry,4,6,Fall 2024,Online
+CS421,Data Structures,Computer Science,4,6,Winter 2025,Online
+ENGT344,Embedded Systems,Engineering Technology,4,4,Fall 2024,Online
+ENGT476,Embedded Systems,Engineering Technology,3,3,Spring 2025,Online
+PSYC174,Behavioural Analytics,Psychology,3,3,Winter 2025,Online
+PHYS226,Quantum Mechanics,Physics,3,2,Winter 2025,Hybrid
+BIO271,Microbiology,Biology,4,4,Winter 2025,In-Person
+CHEM333,Chemometrics,Chemistry,3,2,Fall 2024,Hybrid
+CS423,Software Engineering,Computer Science,3,3,Spring 2025,Online
+BIO161,Molecular Biology,Biology,3,3,Winter 2025,Online
+BIO222,Microbiology,Biology,3,2,Winter 2025,Online
+PHYS183,Classical Mechanics,Physics,4,4,Fall 2024,Hybrid
+CS326,Software Engineering,Computer Science,4,4,Spring 2025,In-Person
+ECON100,Econometrics,Economics,3,3,Winter 2025,Online
+CS309,Databases,Computer Science,4,4,Spring 2025,In-Person
+BUS192,Project Management,Business & Management,3,3,Spring 2025,In-Person
+ENGT407,Embedded Systems,Engineering Technology,3,2,Spring 2025,Hybrid
+ECON489,Econometrics,Economics,3,3,Fall 2024,In-Person
+ENGT398,Network Architecture,Engineering Technology,3,3,Fall 2024,In-Person
+PSYC308,Cognitive Psychology,Psychology,4,4,Winter 2025,Online
+ECON146,Microeconomics,Economics,4,6,Winter 2025,In-Person
+BIO227,Microbiology,Biology,4,4,Fall 2024,In-Person
+CHEM394,Organic Chemistry,Chemistry,4,4,Spring 2025,Online
+PSYC136,Cognitive Psychology,Psychology,4,4,Spring 2025,In-Person
+CHEM498,Chemometrics,Chemistry,3,2,Winter 2025,In-Person
+ECON328,Microeconomics,Economics,3,3,Fall 2024,In-Person
+MTH214,Time Series Analysis,Mathematics & Statistics,3,3,Fall 2024,In-Person
+BIO228,Bioinformatics,Biology,3,2,Fall 2024,In-Person
+ENGT233,Embedded Systems,Engineering Technology,4,6,Spring 2025,In-Person
+ECON152,Econometrics,Economics,3,2,Spring 2025,In-Person
+CS239,Data Structures,Computer Science,4,6,Winter 2025,Hybrid
+PHYS149,Computational Physics,Physics,3,3,Winter 2025,In-Person

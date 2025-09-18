@@ -1,0 +1,1011 @@
+SectionID,CourseCode,CourseName,Department,Term,Campus,FacultyID,ScheduledHoursPerWeek,MeetingPattern,StartDate,EndDate
+SEC00001,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F082,2,Tue/Thu,2024-09-06,2024-12-13
+SEC00002,PHYS183,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F274,3,Mon/Wed,2024-09-03,2024-12-10
+SEC00003,CHEM346,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F209,4,Mon/Wed,2024-09-06,2024-11-29
+SEC00004,CS177,Cloud Computing,Computer Science,Fall 2024,Toronto,EDU-F044,0,Mon/Wed,2024-09-04,2024-11-27
+SEC00005,PSYC174,Behavioural Analytics,Psychology,Fall 2024,Remote,EDU-F134,3,Tue/Thu,2024-09-10,2024-12-17
+SEC00006,BIO285,Bioinformatics,Biology,Fall 2024,Remote,EDU-F013,3,Fri,2024-09-03,2024-12-10
+SEC00007,CHEM346,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F271,3,Mon/Wed,2024-09-03,2024-12-10
+SEC00008,BIO243,Genetics,Biology,Fall 2024,Hybrid,EDU-F042,6,Mon/Wed,2024-09-04,2024-12-04
+SEC00009,BIO227,Microbiology,Biology,Fall 2024,Remote,EDU-F280,6,Fri,2024-09-04,2024-12-11
+SEC00010,ENGT476,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F224,4,Mon/Wed,2024-09-10,2024-12-17
+SEC00011,CS326,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F061,7,Mon/Wed,2024-09-07,2024-11-30
+SEC00012,ECON132,Game Theory,Economics,Fall 2024,Toronto,EDU-F259,1,Mon/Wed,2024-09-07,2024-12-14
+SEC00013,BIO227,Microbiology,Biology,Fall 2024,Remote,EDU-F253,3,Tue/Thu,2024-09-07,2024-12-14
+SEC00014,BIO263,Bioinformatics,Biology,Fall 2024,Toronto,EDU-F127,3,Mon/Wed,2024-09-06,2024-12-06
+SEC00015,ECON100,Econometrics,Economics,Fall 2024,Hybrid,EDU-F216,2,Fri,2024-09-08,2024-12-15
+SEC00016,BIO222,Microbiology,Biology,Fall 2024,Remote,EDU-F229,2,Mon/Wed,2024-09-10,2024-12-10
+SEC00017,ENGT233,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F249,6,Fri,2024-09-08,2024-12-08
+SEC00018,BIO222,Microbiology,Biology,Fall 2024,Hybrid,EDU-F090,4,Mon/Wed,2024-09-05,2024-12-05
+SEC00019,PSYC174,Behavioural Analytics,Psychology,Fall 2024,Hybrid,EDU-F078,3,Tue/Thu,2024-09-08,2024-12-15
+SEC00020,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F091,2,Fri,2024-09-05,2024-12-05
+SEC00021,BUS446,Financial Accounting,Business & Management,Fall 2024,Remote,EDU-F010,7,Tue/Thu,2024-09-05,2024-11-28
+SEC00022,PHYS180,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F160,3,Fri,2024-09-07,2024-11-30
+SEC00023,CHEM288,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F027,6,Fri,2024-09-09,2024-12-09
+SEC00024,PHYS149,Computational Physics,Physics,Fall 2024,Toronto,EDU-F116,2,Mon/Wed,2024-09-08,2024-12-15
+SEC00025,BUS159,Operations Management,Business & Management,Fall 2024,Hybrid,EDU-F031,2,Mon/Wed,2024-09-08,2024-12-08
+SEC00026,ENGT233,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F231,8,Mon/Wed,2024-09-08,2024-12-01
+SEC00027,CS117,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F118,4,Tue/Thu,2024-09-08,2024-12-08
+SEC00028,CS421,Data Structures,Computer Science,Fall 2024,Toronto,EDU-F275,,Fri,2024-09-06,2024-12-06
+SEC00029,BIO263,Bioinformatics,Biology,Fall 2024,Remote,EDU-F214,4,Tue/Thu,2024-09-08,2024-12-15
+SEC00030,BUS446,Financial Accounting,Business & Management,Fall 2024,Toronto,EDU-F138,5,Tue/Thu,2024-09-05,2024-12-05
+SEC00031,CS117,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F011,1,Tue/Thu,2024-09-10,2024-12-17
+SEC00032,BUS446,Financial Accounting,Business & Management,Fall 2024,Toronto,EDU-F114,6,Mon/Wed,2024-09-04,2024-11-27
+SEC00033,BIO161,Molecular Biology,Biology,Fall 2024,Hybrid,EDU-F236,3,Tue/Thu,2024-09-04,2024-11-27
+SEC00034,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Hybrid,EDU-F255,5,Fri,2024-09-07,2024-12-07
+SEC00035,ECON152,Econometrics,Economics,Fall 2024,Toronto,EDU-F014,3,Fri,2024-09-08,2024-12-15
+SEC00036,BUS159,Operations Management,Business & Management,Fall 2024,Toronto,EDU-F129,6,Mon/Wed,2024-09-06,2024-12-13
+SEC00037,BIO222,Microbiology,Biology,Fall 2024,Hybrid,EDU-F065,2,Tue/Thu,2024-09-03,2024-12-10
+SEC00038,PHYS149,Computational Physics,Physics,Fall 2024,Hybrid,EDU-F131,3,Fri,2024-09-07,2024-11-30
+SEC00039,ENGT398,Network Architecture,Engineering Technology,Fall 2024,Remote,EDU-F147,2,Mon/Wed,2024-09-09,2024-12-16
+SEC00040,ENGT196,Systems Integration,Engineering Technology,Fall 2024,Hybrid,EDU-F095,3,Tue/Thu,2024-09-05,2024-12-05
+SEC00041,BUS159,Operations Management,Business & Management,Fall 2024,Toronto,EDU-F262,1,Mon/Wed,2024-09-05,2024-12-05
+SEC00042,BUS226,Financial Accounting,Business & Management,Fall 2024,Toronto,EDU-F270,6,Fri,2024-09-06,2024-11-29
+SEC00043,BIO161,Molecular Biology,Biology,Fall 2024,Toronto,EDU-F070,2,Fri,2024-09-05,2024-12-05
+SEC00044,CS177,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F141,3,Mon/Wed,2024-09-07,2024-12-07
+SEC00045,BUS192,Project Management,Business & Management,Fall 2024,Toronto,EDU-F158,3,Fri,2024-09-05,2024-12-12
+SEC00046,ECON100,Econometrics,Economics,Fall 2024,Remote,EDU-F276,3,Fri,2024-09-04,2024-11-27
+SEC00047,ECON462,Macroeconomics,Economics,Fall 2024,Remote,EDU-F039,5,Mon/Wed,2024-09-10,2024-12-03
+SEC00048,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F027,2,Mon/Wed,2024-09-10,2024-12-10
+SEC00049,ECON265,Econometrics,Economics,Fall 2024,Remote,EDU-F236,3,Tue/Thu,2024-09-05,2024-11-28
+SEC00050,PHYS183,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F107,4,Mon/Wed,2024-09-08,2024-12-01
+SEC00051,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F181,1,Tue/Thu,2024-09-07,2024-12-07
+SEC00052,BIO161,Molecular Biology,Biology,Fall 2024,Remote,EDU-F197,2,Mon/Wed,2024-09-09,2024-12-16
+SEC00053,CS177,Cloud Computing,Computer Science,Fall 2024,Hybrid,EDU-F025,4,Tue/Thu,2024-09-05,2024-12-12
+SEC00054,CS276,Machine Learning,Computer Science,Fall 2024,Hybrid,EDU-F217,2,Tue/Thu,2024-09-09,2024-12-16
+SEC00055,ENGT233,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F192,5,Fri,2024-09-08,2024-12-01
+SEC00056,MTH376,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F075,4,Fri,2024-09-09,2024-12-16
+SEC00057,BIO161,Molecular Biology,Biology,Fall 2024,Remote,EDU-F275,2,Tue/Thu,2024-09-10,2024-12-10
+SEC00058,CS117,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F267,1,Mon/Wed,2024-09-10,2024-12-17
+SEC00059,ENGT446,Network Architecture,Engineering Technology,Fall 2024,Hybrid,nan,-2,Fri,2024-09-08,2024-12-01
+SEC00060,ENGT196,Systems Integration,Engineering Technology,Fall 2024,Toronto,EDU-F235,3,Mon/Wed,2024-09-03,2024-12-03
+SEC00061,PHYS149,Computational Physics,Physics,Fall 2024,Hybrid,EDU-F238,3,Mon/Wed,2024-09-07,2024-12-07
+SEC00062,ECON128,Microeconomics,Economics,Fall 2024,Toronto,EDU-F056,3,Tue/Thu,2024-09-05,2024-11-28
+SEC00063,PHYS149,Computational Physics,Physics,Fall 2024,Toronto,EDU-F189,2,Fri,2024-09-05,2024-12-12
+SEC00064,ENGT196,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F021,5,Mon/Wed,2024-09-05,2024-12-05
+SEC00065,CHEM498,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F135,1,Tue/Thu,2024-09-04,2024-12-04
+SEC00066,ENGT233,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F202,6,Mon/Wed,2024-09-05,2024-12-12
+SEC00067,ENGT344,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F224,5,Tue/Thu,2024-09-03,2024-12-10
+SEC00068,MTH376,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F089,5,Fri,2024-09-09,2024-12-09
+SEC00069,CS239,Data Structures,Computer Science,Fall 2024,Hybrid,nan,6,Fri,2024-09-05,2024-12-05
+SEC00070,CHEM423,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F179,-2,Fri,2024-09-06,2024-12-06
+SEC00071,ECON146,Microeconomics,Economics,Fall 2024,Remote,EDU-F056,5,Tue/Thu,2024-09-05,2024-12-12
+SEC00072,ECON328,Microeconomics,Economics,Fall 2024,Hybrid,EDU-F088,3,Tue/Thu,2024-09-08,2024-12-01
+SEC00073,CS177,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F020,3,Mon/Wed,2024-09-07,2024-12-07
+SEC00074,BUS240,Project Management,Business & Management,Fall 2024,Toronto,EDU-F139,5,Fri,2024-09-09,2024-12-09
+SEC00075,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F235,2,Fri,2024-09-10,2024-12-10
+SEC00076,ENGT196,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F091,7,Tue/Thu,2024-09-07,2024-11-30
+SEC00077,CS423,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F058,3,Tue/Thu,2024-09-07,2024-12-14
+SEC00078,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Remote,EDU-F162,3,Fri,2024-09-05,2024-12-12
+SEC00079,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F199,4,Mon/Wed,2024-09-09,2024-12-16
+SEC00080,BIO285,Bioinformatics,Biology,Fall 2024,Hybrid,EDU-F271,4,Tue/Thu,2024-09-06,2024-11-29
+SEC00081,BUS240,Project Management,Business & Management,Fall 2024,Toronto,EDU-F265,6,Fri,2024-09-05,2024-11-28
+SEC00082,PHYS180,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F129,5,Mon/Wed,2024-09-10,2024-12-03
+SEC00083,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F150,3,Fri,2024-09-04,2024-12-04
+SEC00084,BIO227,Microbiology,Biology,Fall 2024,Remote,EDU-F197,9,Fri,2024-09-03,2024-12-10
+SEC00085,MTH214,Time Series Analysis,Mathematics & Statistics,Fall 2024,Remote,EDU-F060,2,Fri,2024-09-04,2024-11-27
+SEC00086,CS309,Databases,Computer Science,Fall 2024,Hybrid,EDU-F183,2,Mon/Wed,2024-09-08,2024-12-08
+SEC00087,PHYS226,Quantum Mechanics,Physics,Fall 2024,Remote,EDU-F274,1,Mon/Wed,2024-09-04,2024-12-04
+SEC00088,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F128,7,Mon/Wed,2024-09-08,2024-12-01
+SEC00089,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F250,2,Tue/Thu,2024-09-08,2024-12-15
+SEC00090,CS117,Cloud Computing,Computer Science,Fall 2024,Hybrid,EDU-F066,3,Tue/Thu,2024-09-07,2024-11-30
+SEC00091,ECON100,Econometrics,Economics,Fall 2024,Hybrid,EDU-F088,8,Mon/Wed,2024-09-04,2024-12-11
+SEC00092,BIO271,Microbiology,Biology,Fall 2024,Toronto,EDU-F239,5,Tue/Thu,2024-09-03,2024-12-10
+SEC00093,PHYS335,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F030,2,Fri,2024-09-03,2024-12-10
+SEC00094,CS326,Software Engineering,Computer Science,Fall 2024,Toronto,EDU-F228,5,Mon/Wed,2024-09-06,2024-11-29
+SEC00095,PHYS180,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F108,3,Fri,2024-09-09,2024-12-09
+SEC00096,ECON128,Microeconomics,Economics,Fall 2024,Remote,EDU-F192,7,Tue/Thu,2024-09-05,2024-12-12
+SEC00097,BIO285,Bioinformatics,Biology,Fall 2024,Remote,EDU-F082,7,Mon/Wed,2024-09-09,2024-12-16
+SEC00098,ECON489,Econometrics,Economics,Fall 2024,Toronto,EDU-F147,2,Mon/Wed,2024-09-05,2024-11-28
+SEC00099,CHEM202,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F041,5,Fri,2024-09-04,2024-12-11
+SEC00100,ECON462,Macroeconomics,Economics,Fall 2024,Toronto,EDU-F114,8,Tue/Thu,2024-09-06,2024-11-29
+SEC00101,CS423,Software Engineering,Computer Science,Fall 2024,Toronto,EDU-F080,1,Fri,2024-09-06,2024-11-29
+SEC00102,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Remote,EDU-F199,2,Mon/Wed,2024-09-07,2024-11-30
+SEC00103,BIO243,Genetics,Biology,Fall 2024,Toronto,EDU-F097,5,Fri,2024-09-06,2024-12-06
+SEC00104,ECON152,Econometrics,Economics,Fall 2024,Toronto,EDU-F124,5,Tue/Thu,2024-09-03,2024-11-26
+SEC00105,ENGT233,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F012,6,Tue/Thu,2024-09-03,2024-12-03
+SEC00106,BIO227,Microbiology,Biology,Fall 2024,Remote,EDU-F211,2,Tue/Thu,2024-09-06,2024-12-13
+SEC00107,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Toronto,EDU-F161,0,Mon/Wed,2024-09-09,2024-12-16
+SEC00108,PHYS183,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F116,4,Mon/Wed,2024-09-08,2024-12-15
+SEC00109,CHEM346,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F271,4,Tue/Thu,2024-09-06,2024-12-13
+SEC00110,BIO161,Molecular Biology,Biology,Fall 2024,Toronto,EDU-F153,1,Tue/Thu,2024-09-10,2024-12-10
+SEC00111,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Toronto,EDU-F235,2,Fri,2024-09-03,2024-11-26
+SEC00112,CS276,Machine Learning,Computer Science,Fall 2024,Toronto,EDU-F182,2,Mon/Wed,2024-09-08,2024-12-01
+SEC00113,CS309,Databases,Computer Science,Fall 2024,Remote,EDU-F115,4,Mon/Wed,2024-09-07,2024-12-07
+SEC00114,CHEM394,Organic Chemistry,Chemistry,Fall 2024,Remote,EDU-F187,8,Fri,2024-09-05,2024-11-28
+SEC00115,ECON100,Econometrics,Economics,Fall 2024,Hybrid,EDU-F114,0,Tue/Thu,2024-09-04,2024-12-04
+SEC00116,ENGT476,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F258,3,Tue/Thu,2024-09-06,2024-12-13
+SEC00117,BUS192,Project Management,Business & Management,Fall 2024,Hybrid,EDU-F063,5,Fri,2024-09-07,2024-11-30
+SEC00118,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Toronto,EDU-F273,3,Tue/Thu,2024-09-07,2024-11-30
+SEC00119,BUS159,Operations Management,Business & Management,Fall 2024,Remote,EDU-F224,1,Fri,2024-09-09,2024-12-16
+SEC00120,PSYC136,Cognitive Psychology,Psychology,Fall 2024,Remote,EDU-F068,3,Fri,2024-09-06,2024-12-13
+SEC00121,PHYS226,Quantum Mechanics,Physics,Fall 2024,Hybrid,EDU-F191,5,Tue/Thu,2024-09-06,2024-11-29
+SEC00122,MTH214,Time Series Analysis,Mathematics & Statistics,Fall 2024,Remote,EDU-F130,7,Mon/Wed,2024-09-09,2024-12-09
+SEC00123,BUS226,Financial Accounting,Business & Management,Fall 2024,Remote,EDU-F043,7,Tue/Thu,2024-09-08,2024-12-01
+SEC00124,PHYS180,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F071,3,Mon/Wed,2024-09-10,2024-12-10
+SEC00125,ENGT292,IoT Fundamentals,Engineering Technology,Fall 2024,Hybrid,EDU-F231,6,Mon/Wed,2024-09-08,2024-12-01
+SEC00126,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Toronto,EDU-F252,1,Mon/Wed,2024-09-03,2024-12-03
+SEC00127,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F117,1,Fri,2024-09-10,2024-12-10
+SEC00128,PHYS226,Quantum Mechanics,Physics,Fall 2024,Remote,EDU-F123,1,Mon/Wed,2024-09-08,2024-12-01
+SEC00129,ENGT344,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F120,,Tue/Thu,2024-09-06,2024-12-13
+SEC00130,MTH376,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F107,5,Mon/Wed,2024-09-08,2024-12-15
+SEC00131,PHYS335,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F219,6,Tue/Thu,2024-09-10,2024-12-03
+SEC00132,ECON245,Microeconomics,Economics,Fall 2024,Remote,EDU-F050,3,Fri,2024-09-06,2024-12-06
+SEC00133,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F059,6,Fri,2024-09-10,2024-12-10
+SEC00134,BIO285,Bioinformatics,Biology,Fall 2024,Remote,EDU-F008,4,Fri,2024-09-05,2024-12-12
+SEC00135,BUS446,Financial Accounting,Business & Management,Fall 2024,Remote,EDU-F044,7,Mon/Wed,2024-09-10,2024-12-17
+SEC00136,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Hybrid,EDU-F117,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00137,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Remote,EDU-F225,1,Mon/Wed,2024-09-10,2024-12-03
+SEC00138,BIO271,Microbiology,Biology,Fall 2024,Toronto,EDU-F010,4,Tue/Thu,2024-09-07,2024-12-14
+SEC00139,PSYC301,Research Methods,Psychology,Fall 2024,Remote,EDU-F018,4,Mon/Wed,2024-09-08,2024-12-15
+SEC00140,CS117,Cloud Computing,Computer Science,Fall 2024,Toronto,EDU-F004,6,Fri,2024-09-05,2024-11-28
+SEC00141,CHEM423,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F240,1,Tue/Thu,2024-09-05,2024-12-05
+SEC00142,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F009,7,Fri,2024-09-10,2024-12-03
+SEC00143,ENGT476,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F200,2,Fri,2024-09-05,2024-12-12
+SEC00144,CS326,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F039,4,Fri,2024-09-10,2024-12-17
+SEC00145,ENGT446,Network Architecture,Engineering Technology,Fall 2024,Remote,EDU-F009,6,Fri,2024-09-06,2024-12-13
+SEC00146,CS180,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F234,2,Mon/Wed,2024-09-05,2024-12-12
+SEC00147,PHYS396,Thermodynamics,Physics,Fall 2024,Toronto,EDU-F123,3,Tue/Thu,2024-09-05,2024-12-12
+SEC00148,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Toronto,EDU-F103,6,Fri,2024-09-10,2024-12-17
+SEC00149,CS423,Software Engineering,Computer Science,Fall 2024,Toronto,EDU-F028,-2,Mon/Wed,2024-09-04,2024-12-04
+SEC00150,PHYS335,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F111,3,Mon/Wed,2024-09-04,2024-12-11
+SEC00151,ENGT292,IoT Fundamentals,Engineering Technology,Fall 2024,Hybrid,EDU-F117,8,Mon/Wed,2024-09-07,2024-11-30
+SEC00152,CHEM423,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F039,3,Tue/Thu,2024-09-09,2024-12-09
+SEC00153,BIO271,Microbiology,Biology,Fall 2024,Toronto,EDU-F175,3,Tue/Thu,2024-09-07,2024-11-30
+SEC00154,CHEM498,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F149,1,Mon/Wed,2024-09-10,2024-12-17
+SEC00155,PHYS183,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F262,4,Fri,2024-09-10,2024-12-10
+SEC00156,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F237,6,Mon/Wed,2024-09-06,2024-12-13
+SEC00157,CS423,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F226,6,Tue/Thu,2024-09-10,2024-12-03
+SEC00158,BUS192,Project Management,Business & Management,Fall 2024,Hybrid,EDU-F087,3,Mon/Wed,2024-09-07,2024-12-07
+SEC00159,BIO263,Bioinformatics,Biology,Fall 2024,Remote,EDU-F095,3,Fri,2024-09-04,2024-12-11
+SEC00160,BIO228,Bioinformatics,Biology,Fall 2024,Toronto,EDU-F253,2,Tue/Thu,2024-09-05,2024-11-28
+SEC00161,PHYS335,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F111,4,Mon/Wed,2024-09-04,2024-11-27
+SEC00162,ENGT344,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F120,4,Mon/Wed,2024-09-10,2024-12-17
+SEC00163,CS423,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F205,2,Mon/Wed,2024-09-09,2024-12-02
+SEC00164,BUS192,Project Management,Business & Management,Fall 2024,Hybrid,EDU-F065,2,Mon/Wed,2024-09-10,2024-12-03
+SEC00165,ECON328,Microeconomics,Economics,Fall 2024,Toronto,EDU-F056,3,Mon/Wed,2024-09-03,2024-11-26
+SEC00166,BUS192,Project Management,Business & Management,Fall 2024,Toronto,EDU-F139,3,Tue/Thu,2024-09-07,2024-11-30
+SEC00167,BUS240,Project Management,Business & Management,Fall 2024,Toronto,EDU-F194,9,Fri,2024-09-08,2024-12-01
+SEC00168,BIO285,Bioinformatics,Biology,Fall 2024,Hybrid,EDU-F178,2,Tue/Thu,2024-09-09,2024-12-09
+SEC00169,PSYC136,Cognitive Psychology,Psychology,Fall 2024,Hybrid,EDU-F263,7,Fri,2024-09-09,2024-12-16
+SEC00170,CS177,Cloud Computing,Computer Science,Fall 2024,Toronto,EDU-F024,5,Fri,2024-09-06,2024-12-06
+SEC00171,CHEM394,Organic Chemistry,Chemistry,Fall 2024,Remote,EDU-F271,3,Fri,2024-09-04,2024-11-27
+SEC00172,BIO161,Molecular Biology,Biology,Fall 2024,Toronto,EDU-F176,1,Tue/Thu,2024-09-06,2024-11-29
+SEC00173,PSYC301,Research Methods,Psychology,Fall 2024,Remote,EDU-F193,6,Fri,2024-09-03,2024-12-03
+SEC00174,PHYS226,Quantum Mechanics,Physics,Fall 2024,Toronto,EDU-F241,1,Fri,2024-09-03,2024-11-26
+SEC00175,CS177,Cloud Computing,Computer Science,Fall 2024,Hybrid,EDU-F201,3,Fri,2024-09-04,2024-11-27
+SEC00176,ENGT398,Network Architecture,Engineering Technology,Fall 2024,Hybrid,EDU-F174,3,Fri,2024-09-09,2024-12-02
+SEC00177,ENGT292,IoT Fundamentals,Engineering Technology,Fall 2024,Remote,EDU-F119,7,Mon/Wed,2024-09-09,2024-12-09
+SEC00178,BIO161,Molecular Biology,Biology,Fall 2024,Hybrid,EDU-F176,2,Fri,2024-09-09,2024-12-09
+SEC00179,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F243,1,Tue/Thu,2024-09-05,2024-11-28
+SEC00180,CS177,Cloud Computing,Computer Science,Fall 2024,Hybrid,nan,4,Mon/Wed,2024-09-06,2024-12-06
+SEC00181,CS276,Machine Learning,Computer Science,Fall 2024,Toronto,EDU-F032,1,Fri,2024-09-10,2024-12-10
+SEC00182,BUS192,Project Management,Business & Management,Fall 2024,Remote,EDU-F063,3,Mon/Wed,2024-09-08,2024-12-08
+SEC00183,ECON146,Microeconomics,Economics,Fall 2024,Hybrid,EDU-F053,6,Fri,2024-09-06,2024-11-29
+SEC00184,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Hybrid,EDU-F276,1,Fri,2024-09-03,2024-12-03
+SEC00185,BIO263,Bioinformatics,Biology,Fall 2024,Toronto,EDU-F156,4,Tue/Thu,2024-09-04,2024-11-27
+SEC00186,ECON297,Game Theory,Economics,Fall 2024,Remote,EDU-F271,3,Fri,2024-09-05,2024-12-05
+SEC00187,BIO263,Bioinformatics,Biology,Fall 2024,Hybrid,EDU-F131,2,Mon/Wed,2024-09-04,2024-12-11
+SEC00188,PHYS335,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F133,2,Tue/Thu,2024-09-07,2024-12-14
+SEC00189,CS326,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F183,5,Tue/Thu,2024-09-10,2024-12-10
+SEC00190,PHYS335,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F218,4,Tue/Thu,2024-09-04,2024-11-27
+SEC00191,BUS159,Operations Management,Business & Management,Fall 2024,Hybrid,EDU-F158,1,Tue/Thu,2024-09-04,2024-12-11
+SEC00192,PHYS335,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F274,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00193,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Remote,EDU-F179,3,Fri,2024-09-09,2024-12-09
+SEC00194,MTH214,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F280,1,Mon/Wed,2024-09-03,2024-12-03
+SEC00195,CHEM346,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F258,2,Tue/Thu,2024-09-07,2024-12-07
+SEC00196,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F076,1,Mon/Wed,2024-09-05,2024-12-12
+SEC00197,CS180,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F002,3,Fri,2024-09-05,2024-11-28
+SEC00198,MTH214,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F036,3,Tue/Thu,2024-09-06,2024-12-06
+SEC00199,PHYS226,Quantum Mechanics,Physics,Fall 2024,Remote,EDU-F121,1,Mon/Wed,2024-09-04,2024-11-27
+SEC00200,CHEM288,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F157,10,Mon/Wed,2024-09-04,2024-12-11
+SEC00201,ECON146,Microeconomics,Economics,Fall 2024,Hybrid,EDU-F008,5,Fri,2024-09-03,2024-11-26
+SEC00202,CS423,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F205,1,Tue/Thu,2024-09-10,2024-12-17
+SEC00203,CS177,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F020,5,Fri,2024-09-08,2024-12-15
+SEC00204,CHEM346,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F260,1,Mon/Wed,2024-09-04,2024-12-04
+SEC00205,CS326,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F153,4,Tue/Thu,2024-09-10,2024-12-10
+SEC00206,CHEM423,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F103,2,Fri,2024-09-06,2024-11-29
+SEC00207,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Remote,EDU-F179,4,Fri,2024-09-08,2024-12-01
+SEC00208,ENGT344,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F173,3,Tue/Thu,2024-09-05,2024-11-28
+SEC00209,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Toronto,EDU-F042,1,Tue/Thu,2024-09-04,2024-12-11
+SEC00210,CHEM346,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F012,3,Tue/Thu,2024-09-09,2024-12-09
+SEC00211,PSYC136,Cognitive Psychology,Psychology,Fall 2024,Toronto,EDU-F179,3,Tue/Thu,2024-09-06,2024-11-29
+SEC00212,ENGT389,IoT Fundamentals,Engineering Technology,Fall 2024,Hybrid,EDU-F108,3,Mon/Wed,2024-09-08,2024-12-08
+SEC00213,PHYS180,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F054,3,Fri,2024-09-10,2024-12-03
+SEC00214,CHEM202,Analytical Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F184,9,Mon/Wed,2024-09-03,2024-12-10
+SEC00215,CS421,Data Structures,Computer Science,Fall 2024,Toronto,EDU-F144,6,Fri,2024-09-07,2024-12-07
+SEC00216,CHEM346,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F168,4,Tue/Thu,2024-09-03,2024-12-03
+SEC00217,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F110,1,Tue/Thu,2024-09-03,2024-12-10
+SEC00218,BIO271,Microbiology,Biology,Fall 2024,Remote,EDU-F208,3,Fri,2024-09-03,2024-12-03
+SEC00219,BIO227,Microbiology,Biology,Fall 2024,Hybrid,EDU-F067,3,Mon/Wed,2024-09-06,2024-11-29
+SEC00220,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F164,6,Fri,2024-09-08,2024-12-15
+SEC00221,ECON245,Microeconomics,Economics,Fall 2024,Remote,EDU-F209,4,Mon/Wed,2024-09-08,2024-12-08
+SEC00222,CS177,Cloud Computing,Computer Science,Fall 2024,Toronto,EDU-F206,-2,Mon/Wed,2024-09-03,2024-12-03
+SEC00223,CS326,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F147,4,Tue/Thu,2024-09-04,2024-12-11
+SEC00224,CHEM202,Analytical Chemistry,Chemistry,Fall 2024,Toronto,EDU-F009,5,Fri,2024-09-10,2024-12-03
+SEC00225,PHYS149,Computational Physics,Physics,Fall 2024,Toronto,EDU-F218,1,Mon/Wed,2024-09-06,2024-12-06
+SEC00226,ECON265,Econometrics,Economics,Fall 2024,Toronto,EDU-F233,5,Mon/Wed,2024-09-08,2024-12-15
+SEC00227,ECON328,Microeconomics,Economics,Fall 2024,Hybrid,EDU-F147,2,Fri,2024-09-07,2024-12-07
+SEC00228,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F018,7,Mon/Wed,2024-09-04,2024-11-27
+SEC00229,CS326,Software Engineering,Computer Science,Fall 2024,Toronto,EDU-F185,3,Tue/Thu,2024-09-05,2024-12-05
+SEC00230,CS309,Databases,Computer Science,Fall 2024,Remote,EDU-F020,3,Fri,2024-09-04,2024-11-27
+SEC00231,ECON152,Econometrics,Economics,Fall 2024,Remote,EDU-F190,3,Mon/Wed,2024-09-04,2024-12-04
+SEC00232,ECON100,Econometrics,Economics,Fall 2024,Toronto,EDU-F055,3,Fri,2024-09-08,2024-12-15
+SEC00233,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F081,2,Tue/Thu,2024-09-06,2024-11-29
+SEC00234,BIO222,Microbiology,Biology,Fall 2024,Remote,EDU-F006,3,Mon/Wed,2024-09-04,2024-12-11
+SEC00235,ENGT476,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F119,1,Fri,2024-09-05,2024-11-28
+SEC00236,ECON100,Econometrics,Economics,Fall 2024,Toronto,EDU-F085,2,Fri,2024-09-09,2024-12-09
+SEC00237,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F133,3,Tue/Thu,2024-09-05,2024-12-05
+SEC00238,CS117,Cloud Computing,Computer Science,Fall 2024,Remote,EDU-F275,3,Mon/Wed,2024-09-05,2024-12-05
+SEC00239,BIO243,Genetics,Biology,Fall 2024,Remote,EDU-F253,,Mon/Wed,2024-09-08,2024-12-08
+SEC00240,PHYS335,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F129,5,Mon/Wed,2024-09-04,2024-12-11
+SEC00241,CS239,Data Structures,Computer Science,Fall 2024,Remote,EDU-F267,5,Fri,2024-09-10,2024-12-17
+SEC00242,PHYS180,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F116,4,Fri,2024-09-09,2024-12-09
+SEC00243,PHYS180,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F001,5,Tue/Thu,2024-09-08,2024-12-08
+SEC00244,ENGT398,Network Architecture,Engineering Technology,Fall 2024,Toronto,EDU-F152,1,Mon/Wed,2024-09-03,2024-11-26
+SEC00245,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Toronto,EDU-F103,4,Fri,2024-09-09,2024-12-09
+SEC00246,BUS192,Project Management,Business & Management,Fall 2024,Hybrid,EDU-F038,2,Fri,2024-09-05,2024-12-05
+SEC00247,ENGT389,IoT Fundamentals,Engineering Technology,Fall 2024,Toronto,EDU-F162,5,Mon/Wed,2024-09-04,2024-11-27
+SEC00248,CS421,Data Structures,Computer Science,Fall 2024,Toronto,EDU-F024,7,Tue/Thu,2024-09-08,2024-12-08
+SEC00249,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F181,7,Fri,2024-09-05,2024-12-05
+SEC00250,PHYS183,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F238,3,Fri,2024-09-07,2024-12-14
+SEC00251,CS326,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F279,4,Tue/Thu,2024-09-03,2024-11-26
+SEC00252,CHEM346,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F012,3,Tue/Thu,2024-09-06,2024-12-13
+SEC00253,CS180,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F139,3,Mon/Wed,2024-09-04,2024-12-04
+SEC00254,PSYC136,Cognitive Psychology,Psychology,Fall 2024,Toronto,EDU-F191,3,Tue/Thu,2024-09-08,2024-12-15
+SEC00255,CHEM202,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F168,5,Tue/Thu,2024-09-06,2024-12-06
+SEC00256,PHYS226,Quantum Mechanics,Physics,Fall 2024,Hybrid,EDU-F121,1,Tue/Thu,2024-09-06,2024-12-06
+SEC00257,PHYS149,Computational Physics,Physics,Fall 2024,Remote,EDU-F150,3,Tue/Thu,2024-09-04,2024-11-27
+SEC00258,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F117,4,Mon/Wed,2024-09-05,2024-12-05
+SEC00259,ECON462,Macroeconomics,Economics,Fall 2024,Hybrid,EDU-F233,3,Tue/Thu,2024-09-08,2024-12-08
+SEC00260,CHEM394,Organic Chemistry,Chemistry,Fall 2024,Remote,EDU-F260,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00261,PSYC308,Cognitive Psychology,Psychology,Fall 2024,Remote,EDU-F272,6,Fri,2024-09-04,2024-12-04
+SEC00262,ECON462,Macroeconomics,Economics,Fall 2024,Remote,EDU-F028,6,Tue/Thu,2024-09-03,2024-12-03
+SEC00263,BIO271,Microbiology,Biology,Fall 2024,Hybrid,EDU-F090,4,Tue/Thu,2024-09-06,2024-11-29
+SEC00264,CHEM346,Chemometrics,Chemistry,Fall 2024,Hybrid,EDU-F160,3,Mon/Wed,2024-09-06,2024-12-13
+SEC00265,PSYC301,Research Methods,Psychology,Fall 2024,Hybrid,EDU-F109,7,Tue/Thu,2024-09-06,2024-12-13
+SEC00266,BUS240,Project Management,Business & Management,Fall 2024,Hybrid,EDU-F072,9,Fri,2024-09-05,2024-12-05
+SEC00267,MTH214,Time Series Analysis,Mathematics & Statistics,Fall 2024,Toronto,EDU-F265,3,Tue/Thu,2024-09-05,2024-12-05
+SEC00268,PSYC174,Behavioural Analytics,Psychology,Fall 2024,Remote,EDU-F106,1,Mon/Wed,2024-09-08,2024-12-01
+SEC00269,ECON146,Microeconomics,Economics,Fall 2024,Toronto,EDU-F259,3,Fri,2024-09-06,2024-12-06
+SEC00270,BIO285,Bioinformatics,Biology,Fall 2024,Toronto,EDU-F280,3,Tue/Thu,2024-09-04,2024-12-04
+SEC00271,CHEM346,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F248,2,Tue/Thu,2024-09-10,2024-12-10
+SEC00272,CS309,Databases,Computer Science,Fall 2024,Hybrid,EDU-F020,4,Mon/Wed,2024-09-09,2024-12-09
+SEC00273,ECON100,Econometrics,Economics,Fall 2024,Hybrid,EDU-F035,2,Mon/Wed,2024-09-05,2024-12-12
+SEC00274,CS309,Databases,Computer Science,Fall 2024,Remote,EDU-F212,3,Fri,2024-09-09,2024-12-02
+SEC00275,PHYS226,Quantum Mechanics,Physics,Fall 2024,Hybrid,EDU-F155,2,Mon/Wed,2024-09-05,2024-11-28
+SEC00276,CHEM130,Organic Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F157,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00277,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Hybrid,EDU-F091,1,Tue/Thu,2024-09-03,2024-12-10
+SEC00278,PHYS180,Classical Mechanics,Physics,Fall 2024,Remote,EDU-F102,4,Tue/Thu,2024-09-09,2024-12-02
+SEC00279,CHEM202,Analytical Chemistry,Chemistry,Fall 2024,Toronto,EDU-F094,7,Fri,2024-09-05,2024-12-12
+SEC00280,CHEM346,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F143,1,Mon/Wed,2024-09-09,2024-12-02
+SEC00281,ENGT398,Network Architecture,Engineering Technology,Fall 2024,Hybrid,EDU-F015,1,Tue/Thu,2024-09-09,2024-12-02
+SEC00282,PSYC174,Behavioural Analytics,Psychology,Fall 2024,Toronto,EDU-F179,2,Fri,2024-09-08,2024-12-01
+SEC00283,CS309,Databases,Computer Science,Fall 2024,Hybrid,EDU-F002,4,Fri,2024-09-08,2024-12-15
+SEC00284,ECON297,Game Theory,Economics,Fall 2024,Toronto,EDU-F085,3,Fri,2024-09-07,2024-12-14
+SEC00285,PSYC136,Cognitive Psychology,Psychology,Fall 2024,Toronto,EDU-F065,4,Tue/Thu,2024-09-04,2024-12-04
+SEC00286,CS309,Databases,Computer Science,Fall 2024,Toronto,EDU-F267,3,Tue/Thu,2024-09-04,2024-12-11
+SEC00287,ECON489,Econometrics,Economics,Fall 2024,Toronto,EDU-F195,4,Fri,2024-09-06,2024-11-29
+SEC00288,BUS192,Project Management,Business & Management,Fall 2024,Toronto,EDU-F108,2,Mon/Wed,2024-09-08,2024-12-15
+SEC00289,CS276,Machine Learning,Computer Science,Fall 2024,Toronto,EDU-F211,3,Tue/Thu,2024-09-10,2024-12-10
+SEC00290,BUS192,Project Management,Business & Management,Fall 2024,Toronto,EDU-F064,2,Mon/Wed,2024-09-10,2024-12-17
+SEC00291,CHEM130,Organic Chemistry,Chemistry,Fall 2024,Hybrid,EDU-F046,2,Mon/Wed,2024-09-05,2024-12-12
+SEC00292,CS309,Databases,Computer Science,Fall 2024,Remote,EDU-F115,5,Tue/Thu,2024-09-06,2024-11-29
+SEC00293,ECON100,Econometrics,Economics,Fall 2024,Toronto,EDU-F147,1,Fri,2024-09-08,2024-12-15
+SEC00294,BIO263,Bioinformatics,Biology,Fall 2024,Remote,EDU-F208,3,Mon/Wed,2024-09-08,2024-12-15
+SEC00295,CS117,Cloud Computing,Computer Science,Fall 2024,Hybrid,EDU-F185,4,Tue/Thu,2024-09-07,2024-12-14
+SEC00296,PHYS149,Computational Physics,Physics,Fall 2024,Toronto,EDU-F108,4,Fri,2024-09-05,2024-11-28
+SEC00297,CHEM483,Analytical Chemistry,Chemistry,Fall 2024,Remote,EDU-F206,5,Tue/Thu,2024-09-09,2024-12-09
+SEC00298,CHEM130,Organic Chemistry,Chemistry,Fall 2024,Toronto,EDU-F160,3,Fri,2024-09-08,2024-12-01
+SEC00299,BUS446,Financial Accounting,Business & Management,Fall 2024,Hybrid,EDU-F064,4,Fri,2024-09-10,2024-12-17
+SEC00300,ENGT344,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F146,4,Fri,2024-09-03,2024-12-03
+SEC00301,PSYC174,Behavioural Analytics,Psychology,Fall 2024,Hybrid,EDU-F025,3,Tue/Thu,2024-09-10,2024-12-17
+SEC00302,PHYS180,Classical Mechanics,Physics,Fall 2024,Toronto,EDU-F243,4,Fri,2024-09-04,2024-11-27
+SEC00303,ECON100,Econometrics,Economics,Fall 2024,Remote,EDU-F027,6,Mon/Wed,2024-09-06,2024-12-06
+SEC00304,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Remote,EDU-F224,5,Fri,2024-09-09,2024-12-02
+SEC00305,CS423,Software Engineering,Computer Science,Fall 2024,Remote,EDU-F017,3,Tue/Thu,2024-09-08,2024-12-15
+SEC00306,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F039,1,Tue/Thu,2024-09-09,2024-12-16
+SEC00307,ENGT258,Quality Assurance,Engineering Technology,Fall 2024,Hybrid,EDU-F191,1,Mon/Wed,2024-09-07,2024-12-14
+SEC00308,PHYS149,Computational Physics,Physics,Fall 2024,Hybrid,EDU-F059,2,Fri,2024-09-05,2024-12-05
+SEC00309,ECON328,Microeconomics,Economics,Fall 2024,Toronto,EDU-F014,3,Mon/Wed,2024-09-08,2024-12-15
+SEC00310,ENGT407,Embedded Systems,Engineering Technology,Fall 2024,Hybrid,EDU-F055,1,Fri,2024-09-04,2024-12-11
+SEC00311,ECON265,Econometrics,Economics,Fall 2024,Toronto,EDU-F259,4,Tue/Thu,2024-09-05,2024-11-28
+SEC00312,CS177,Cloud Computing,Computer Science,Fall 2024,Toronto,EDU-F266,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00313,BIO243,Genetics,Biology,Fall 2024,Remote,EDU-F124,5,Fri,2024-09-04,2024-12-11
+SEC00314,ENGT398,Network Architecture,Engineering Technology,Fall 2024,Remote,EDU-F198,0,Fri,2024-09-05,2024-11-28
+SEC00315,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F009,3,Tue/Thu,2024-09-04,2024-12-11
+SEC00316,CS177,Cloud Computing,Computer Science,Fall 2024,Hybrid,EDU-F120,5,Tue/Thu,2024-09-07,2024-12-07
+SEC00317,BIO263,Bioinformatics,Biology,Fall 2024,Hybrid,EDU-F271,3,Fri,2024-09-08,2024-12-08
+SEC00318,ECON132,Game Theory,Economics,Fall 2024,Remote,EDU-F195,4,Fri,2024-09-06,2024-12-13
+SEC00319,ECON328,Microeconomics,Economics,Fall 2024,Toronto,EDU-F114,2,Mon/Wed,2024-09-04,2024-12-04
+SEC00320,ECON462,Macroeconomics,Economics,Fall 2024,Toronto,EDU-F134,5,Mon/Wed,2024-09-03,2024-12-10
+SEC00321,CHEM498,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F202,1,Fri,2025-01-08,2025-04-02
+SEC00322,PHYS183,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F222,6,Mon/Wed,2025-01-13,2025-04-14
+SEC00323,ECON462,Macroeconomics,Economics,Winter 2025,Toronto,EDU-F256,3,Fri,2025-01-11,2025-04-19
+SEC00324,BIO263,Bioinformatics,Biology,Winter 2025,Hybrid,EDU-F150,2,Tue/Thu,2025-01-11,2025-04-05
+SEC00325,CS180,Software Engineering,Computer Science,Winter 2025,Toronto,EDU-F023,6,Mon/Wed,2025-01-13,2025-04-07
+SEC00326,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Remote,EDU-F149,2,Fri,2025-01-13,2025-04-21
+SEC00327,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F249,1,Mon/Wed,2025-01-12,2025-04-06
+SEC00328,ECON146,Microeconomics,Economics,Winter 2025,Toronto,EDU-F134,5,Mon/Wed,2025-01-09,2025-04-03
+SEC00329,ECON265,Econometrics,Economics,Winter 2025,Hybrid,EDU-F052,3,Tue/Thu,2025-01-12,2025-04-20
+SEC00330,PHYS226,Quantum Mechanics,Physics,Winter 2025,Remote,EDU-F138,1,Tue/Thu,2025-01-08,2025-04-16
+SEC00331,CS276,Machine Learning,Computer Science,Winter 2025,Remote,EDU-F213,2,Fri,2025-01-06,2025-03-31
+SEC00332,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Remote,EDU-F235,7,Fri,2025-01-06,2025-04-07
+SEC00333,PHYS396,Thermodynamics,Physics,Winter 2025,Toronto,EDU-F243,3,Tue/Thu,2025-01-11,2025-04-12
+SEC00334,ECON489,Econometrics,Economics,Winter 2025,Hybrid,EDU-F259,4,Mon/Wed,2025-01-11,2025-04-19
+SEC00335,ECON297,Game Theory,Economics,Winter 2025,Hybrid,EDU-F153,3,Mon/Wed,2025-01-06,2025-04-07
+SEC00336,CHEM202,Analytical Chemistry,Chemistry,Winter 2025,Remote,EDU-F128,7,Mon/Wed,2025-01-10,2025-04-11
+SEC00337,BUS446,Financial Accounting,Business & Management,Winter 2025,Hybrid,EDU-F029,6,Mon/Wed,2025-01-13,2025-04-07
+SEC00338,CHEM288,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F211,7,Fri,2025-01-07,2025-04-01
+SEC00339,BUS240,Project Management,Business & Management,Winter 2025,Remote,EDU-F101,5,Fri,2025-01-11,2025-04-19
+SEC00340,CS326,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F213,5,Mon/Wed,2025-01-07,2025-04-01
+SEC00341,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Hybrid,EDU-F230,5,Tue/Thu,2025-01-12,2025-04-06
+SEC00342,PSYC308,Cognitive Psychology,Psychology,Winter 2025,Hybrid,EDU-F215,5,Tue/Thu,2025-01-10,2025-04-04
+SEC00343,CS117,Cloud Computing,Computer Science,Winter 2025,Toronto,EDU-F194,5,Mon/Wed,2025-01-11,2025-04-12
+SEC00344,CS326,Software Engineering,Computer Science,Winter 2025,Toronto,EDU-F162,5,Mon/Wed,2025-01-09,2025-04-03
+SEC00345,CS421,Data Structures,Computer Science,Winter 2025,Remote,EDU-F195,4,Tue/Thu,2025-01-08,2025-04-09
+SEC00346,BUS240,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F157,6,Tue/Thu,2025-01-07,2025-04-15
+SEC00347,BUS159,Operations Management,Business & Management,Winter 2025,Hybrid,EDU-F134,4,Fri,2025-01-07,2025-04-01
+SEC00348,PSYC301,Research Methods,Psychology,Winter 2025,Remote,EDU-F272,5,Mon/Wed,2025-01-13,2025-04-14
+SEC00349,PHYS396,Thermodynamics,Physics,Winter 2025,Toronto,EDU-F128,3,Tue/Thu,2025-01-11,2025-04-05
+SEC00350,PHYS180,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F125,5,Tue/Thu,2025-01-13,2025-04-14
+SEC00351,BUS159,Operations Management,Business & Management,Winter 2025,Toronto,EDU-F159,3,Tue/Thu,2025-01-07,2025-04-01
+SEC00352,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F018,5,Mon/Wed,2025-01-12,2025-04-06
+SEC00353,BUS159,Operations Management,Business & Management,Winter 2025,Remote,EDU-F104,3,Tue/Thu,2025-01-11,2025-04-05
+SEC00354,CS423,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F025,4,Tue/Thu,2025-01-09,2025-04-03
+SEC00355,BIO271,Microbiology,Biology,Winter 2025,Hybrid,EDU-F005,3,Tue/Thu,2025-01-06,2025-03-31
+SEC00356,CS117,Cloud Computing,Computer Science,Winter 2025,Hybrid,EDU-F266,,Mon/Wed,2025-01-13,2025-04-21
+SEC00357,PSYC308,Cognitive Psychology,Psychology,Winter 2025,Remote,EDU-F262,4,Mon/Wed,2025-01-13,2025-04-14
+SEC00358,BUS159,Operations Management,Business & Management,Winter 2025,Hybrid,EDU-F187,1,Mon/Wed,2025-01-12,2025-04-06
+SEC00359,ECON462,Macroeconomics,Economics,Winter 2025,Hybrid,EDU-F195,4,Fri,2025-01-07,2025-04-08
+SEC00360,PHYS335,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F247,4,Fri,2025-01-12,2025-04-06
+SEC00361,BUS192,Project Management,Business & Management,Winter 2025,Toronto,EDU-F066,2,Mon/Wed,2025-01-08,2025-04-02
+SEC00362,ENGT469,Systems Integration,Engineering Technology,Winter 2025,Remote,EDU-F117,2,Fri,2025-01-08,2025-04-16
+SEC00363,ENGT398,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F152,2,Fri,2025-01-13,2025-04-07
+SEC00364,CHEM202,Analytical Chemistry,Chemistry,Winter 2025,Toronto,EDU-F255,5,Mon/Wed,2025-01-12,2025-04-20
+SEC00365,BIO227,Microbiology,Biology,Winter 2025,Toronto,EDU-F096,8,Mon/Wed,2025-01-06,2025-04-14
+SEC00366,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F009,6,Tue/Thu,2025-01-09,2025-04-10
+SEC00367,BIO243,Genetics,Biology,Winter 2025,Remote,EDU-F167,3,Mon/Wed,2025-01-13,2025-04-14
+SEC00368,ENGT292,IoT Fundamentals,Engineering Technology,Winter 2025,Toronto,EDU-F009,5,Fri,2025-01-11,2025-04-19
+SEC00369,ENGT344,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F162,6,Mon/Wed,2025-01-08,2025-04-16
+SEC00370,PHYS226,Quantum Mechanics,Physics,Winter 2025,Remote,EDU-F247,1,Mon/Wed,2025-01-13,2025-04-07
+SEC00371,CS180,Software Engineering,Computer Science,Winter 2025,Remote,EDU-F201,2,Fri,2025-01-06,2025-03-31
+SEC00372,PHYS149,Computational Physics,Physics,Winter 2025,Toronto,EDU-F001,2,Tue/Thu,2025-01-09,2025-04-10
+SEC00373,MTH376,Time Series Analysis,Mathematics & Statistics,Winter 2025,Hybrid,EDU-F268,10,Fri,2025-01-09,2025-04-17
+SEC00374,BIO227,Microbiology,Biology,Winter 2025,Toronto,EDU-F208,8,Mon/Wed,2025-01-07,2025-04-08
+SEC00375,BUS226,Financial Accounting,Business & Management,Winter 2025,Remote,EDU-F158,3,Mon/Wed,2025-01-10,2025-04-11
+SEC00376,PHYS149,Computational Physics,Physics,Winter 2025,Toronto,EDU-F121,4,Mon/Wed,2025-01-08,2025-04-09
+SEC00377,CS177,Cloud Computing,Computer Science,Winter 2025,Hybrid,EDU-F183,2,Tue/Thu,2025-01-09,2025-04-17
+SEC00378,BUS226,Financial Accounting,Business & Management,Winter 2025,Hybrid,EDU-F127,6,Fri,2025-01-11,2025-04-19
+SEC00379,PHYS149,Computational Physics,Physics,Winter 2025,Remote,EDU-F129,0,Mon/Wed,2025-01-07,2025-04-15
+SEC00380,BUS192,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F139,1,Fri,2025-01-12,2025-04-13
+SEC00381,CS117,Cloud Computing,Computer Science,Winter 2025,Toronto,EDU-F183,3,Tue/Thu,2025-01-06,2025-04-14
+SEC00382,CHEM483,Analytical Chemistry,Chemistry,Winter 2025,Remote,EDU-F271,4,Tue/Thu,2025-01-07,2025-04-01
+SEC00383,CHEM333,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F095,1,Fri,2025-01-10,2025-04-18
+SEC00384,CHEM333,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F011,1,Mon/Wed,2025-01-13,2025-04-21
+SEC00385,ECON328,Microeconomics,Economics,Winter 2025,Remote,EDU-F195,5,Fri,2025-01-13,2025-04-14
+SEC00386,CS309,Databases,Computer Science,Winter 2025,Remote,EDU-F162,7,Mon/Wed,2025-01-10,2025-04-11
+SEC00387,BIO227,Microbiology,Biology,Winter 2025,Remote,EDU-F142,3,Mon/Wed,2025-01-08,2025-04-02
+SEC00388,ECON489,Econometrics,Economics,Winter 2025,Hybrid,EDU-F190,3,Fri,2025-01-06,2025-04-14
+SEC00389,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F117,5,Fri,2025-01-07,2025-04-15
+SEC00390,PSYC136,Cognitive Psychology,Psychology,Winter 2025,Remote,EDU-F109,2,Mon/Wed,2025-01-09,2025-04-10
+SEC00391,BUS192,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F021,5,Fri,2025-01-12,2025-04-06
+SEC00392,CHEM333,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F135,3,Mon/Wed,2025-01-13,2025-04-07
+SEC00393,BIO161,Molecular Biology,Biology,Winter 2025,Remote,EDU-F132,3,Fri,2025-01-09,2025-04-17
+SEC00394,BUS159,Operations Management,Business & Management,Winter 2025,Hybrid,EDU-F019,3,Fri,2025-01-09,2025-04-10
+SEC00395,ENGT469,Systems Integration,Engineering Technology,Winter 2025,Hybrid,EDU-F100,3,Mon/Wed,2025-01-08,2025-04-16
+SEC00396,ECON100,Econometrics,Economics,Winter 2025,Hybrid,EDU-F077,4,Fri,2025-01-09,2025-04-03
+SEC00397,CS309,Databases,Computer Science,Winter 2025,Remote,EDU-F001,5,Tue/Thu,2025-01-09,2025-04-03
+SEC00398,BIO161,Molecular Biology,Biology,Winter 2025,Toronto,EDU-F158,4,Tue/Thu,2025-01-09,2025-04-17
+SEC00399,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Hybrid,EDU-F268,1,Mon/Wed,2025-01-12,2025-04-13
+SEC00400,ECON489,Econometrics,Economics,Winter 2025,Toronto,EDU-F214,5,Mon/Wed,2025-01-09,2025-04-03
+SEC00401,PHYS335,Classical Mechanics,Physics,Winter 2025,Toronto,EDU-F001,3,Fri,2025-01-06,2025-03-31
+SEC00402,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Hybrid,EDU-F217,1,Tue/Thu,2025-01-07,2025-04-08
+SEC00403,CS180,Software Engineering,Computer Science,Winter 2025,Remote,EDU-F020,2,Tue/Thu,2025-01-06,2025-04-14
+SEC00404,PSYC136,Cognitive Psychology,Psychology,Winter 2025,Toronto,EDU-F111,5,Mon/Wed,2025-01-13,2025-04-21
+SEC00405,BIO285,Bioinformatics,Biology,Winter 2025,Toronto,EDU-F118,3,Mon/Wed,2025-01-06,2025-03-31
+SEC00406,ECON152,Econometrics,Economics,Winter 2025,Hybrid,EDU-F012,4,Mon/Wed,2025-01-06,2025-04-14
+SEC00407,CS309,Databases,Computer Science,Winter 2025,Hybrid,EDU-F185,4,Mon/Wed,2025-01-06,2025-04-14
+SEC00408,PHYS149,Computational Physics,Physics,Winter 2025,Hybrid,EDU-F222,2,Mon/Wed,2025-01-09,2025-04-03
+SEC00409,BIO227,Microbiology,Biology,Winter 2025,Toronto,EDU-F189,4,Mon/Wed,2025-01-12,2025-04-13
+SEC00410,PHYS149,Computational Physics,Physics,Winter 2025,Hybrid,EDU-F102,,Fri,2025-01-11,2025-04-12
+SEC00411,BUS240,Project Management,Business & Management,Winter 2025,Toronto,EDU-F050,7,Fri,2025-01-06,2025-04-14
+SEC00412,BIO243,Genetics,Biology,Winter 2025,Remote,EDU-F090,3,Mon/Wed,2025-01-11,2025-04-12
+SEC00413,BUS240,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F016,7,Tue/Thu,2025-01-13,2025-04-14
+SEC00414,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Hybrid,EDU-F192,8,Mon/Wed,2025-01-07,2025-04-01
+SEC00415,ENGT344,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F066,3,Tue/Thu,2025-01-12,2025-04-13
+SEC00416,CHEM346,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F046,2,Tue/Thu,2025-01-11,2025-04-05
+SEC00417,BIO271,Microbiology,Biology,Winter 2025,Remote,EDU-F063,4,Mon/Wed,2025-01-08,2025-04-02
+SEC00418,PHYS180,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F218,4,Tue/Thu,2025-01-12,2025-04-06
+SEC00419,PHYS180,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F017,3,Mon/Wed,2025-01-08,2025-04-16
+SEC00420,CS180,Software Engineering,Computer Science,Winter 2025,Remote,EDU-F189,1,Tue/Thu,2025-01-13,2025-04-14
+SEC00421,BIO161,Molecular Biology,Biology,Winter 2025,Hybrid,EDU-F176,1,Mon/Wed,2025-01-13,2025-04-21
+SEC00422,BUS240,Project Management,Business & Management,Winter 2025,Toronto,EDU-F139,8,Mon/Wed,2025-01-09,2025-04-03
+SEC00423,ENGT196,Systems Integration,Engineering Technology,Winter 2025,Toronto,EDU-F202,3,Fri,2025-01-11,2025-04-05
+SEC00424,CHEM423,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F058,2,Fri,2025-01-10,2025-04-11
+SEC00425,ECON297,Game Theory,Economics,Winter 2025,Remote,EDU-F134,3,Tue/Thu,2025-01-10,2025-04-04
+SEC00426,CHEM288,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F065,5,Mon/Wed,2025-01-10,2025-04-11
+SEC00427,PHYS396,Thermodynamics,Physics,Winter 2025,Hybrid,EDU-F253,3,Tue/Thu,2025-01-12,2025-04-20
+SEC00428,ECON489,Econometrics,Economics,Winter 2025,Hybrid,EDU-F195,2,Fri,2025-01-07,2025-04-08
+SEC00429,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Toronto,EDU-F223,2,Tue/Thu,2025-01-11,2025-04-19
+SEC00430,ENGT292,IoT Fundamentals,Engineering Technology,Winter 2025,Toronto,EDU-F120,5,Tue/Thu,2025-01-10,2025-04-04
+SEC00431,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Toronto,EDU-F167,1,Tue/Thu,2025-01-09,2025-04-17
+SEC00432,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F015,6,Fri,2025-01-12,2025-04-13
+SEC00433,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Hybrid,EDU-F073,2,Tue/Thu,2025-01-06,2025-04-14
+SEC00434,ECON265,Econometrics,Economics,Winter 2025,Hybrid,EDU-F027,5,Tue/Thu,2025-01-11,2025-04-19
+SEC00435,BUS226,Financial Accounting,Business & Management,Winter 2025,Remote,EDU-F069,8,Tue/Thu,2025-01-09,2025-04-10
+SEC00436,BIO285,Bioinformatics,Biology,Winter 2025,Remote,EDU-F182,5,Tue/Thu,2025-01-09,2025-04-17
+SEC00437,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Hybrid,EDU-F058,3,Fri,2025-01-06,2025-03-31
+SEC00438,PSYC301,Research Methods,Psychology,Winter 2025,Toronto,EDU-F255,5,Mon/Wed,2025-01-13,2025-04-21
+SEC00439,CS239,Data Structures,Computer Science,Winter 2025,Remote,EDU-F080,6,Mon/Wed,2025-01-11,2025-04-05
+SEC00440,PHYS226,Quantum Mechanics,Physics,Winter 2025,Toronto,EDU-F200,1,Tue/Thu,2025-01-08,2025-04-16
+SEC00441,PHYS149,Computational Physics,Physics,Winter 2025,Remote,EDU-F198,3,Mon/Wed,2025-01-06,2025-03-31
+SEC00442,PHYS149,Computational Physics,Physics,Winter 2025,Hybrid,EDU-F058,4,Mon/Wed,2025-01-11,2025-04-12
+SEC00443,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F003,5,Mon/Wed,2025-01-13,2025-04-21
+SEC00444,ENGT398,Network Architecture,Engineering Technology,Winter 2025,Hybrid,EDU-F156,5,Fri,2025-01-06,2025-03-31
+SEC00445,PHYS149,Computational Physics,Physics,Winter 2025,Hybrid,EDU-F107,4,Tue/Thu,2025-01-11,2025-04-12
+SEC00446,MTH376,Time Series Analysis,Mathematics & Statistics,Winter 2025,Hybrid,EDU-F024,6,Mon/Wed,2025-01-11,2025-04-19
+SEC00447,BUS159,Operations Management,Business & Management,Winter 2025,Hybrid,EDU-F213,3,Tue/Thu,2025-01-09,2025-04-10
+SEC00448,ECON245,Microeconomics,Economics,Winter 2025,Hybrid,EDU-F035,3,Tue/Thu,2025-01-09,2025-04-10
+SEC00449,BUS192,Project Management,Business & Management,Winter 2025,Remote,EDU-F006,3,Mon/Wed,2025-01-13,2025-04-07
+SEC00450,ENGT476,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F252,2,Mon/Wed,2025-01-09,2025-04-03
+SEC00451,PSYC136,Cognitive Psychology,Psychology,Winter 2025,Hybrid,EDU-F261,3,Tue/Thu,2025-01-13,2025-04-21
+SEC00452,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F084,3,Fri,2025-01-07,2025-04-08
+SEC00453,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Toronto,EDU-F220,2,Mon/Wed,2025-01-10,2025-04-18
+SEC00454,ECON146,Microeconomics,Economics,Winter 2025,Remote,EDU-F164,5,Mon/Wed,2025-01-13,2025-04-14
+SEC00455,BUS226,Financial Accounting,Business & Management,Winter 2025,Toronto,EDU-F250,7,Tue/Thu,2025-01-11,2025-04-19
+SEC00456,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Hybrid,EDU-F174,3,Fri,2025-01-10,2025-04-11
+SEC00457,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Toronto,EDU-F137,3,Mon/Wed,2025-01-06,2025-04-07
+SEC00458,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Toronto,EDU-F182,1,Mon/Wed,2025-01-09,2025-04-10
+SEC00459,BUS240,Project Management,Business & Management,Winter 2025,Remote,EDU-F161,4,Fri,2025-01-07,2025-04-08
+SEC00460,CHEM394,Organic Chemistry,Chemistry,Winter 2025,Hybrid,EDU-F113,7,Fri,2025-01-12,2025-04-06
+SEC00461,ECON245,Microeconomics,Economics,Winter 2025,Toronto,EDU-F170,4,Fri,2025-01-12,2025-04-20
+SEC00462,ECON462,Macroeconomics,Economics,Winter 2025,Toronto,EDU-F190,2,Tue/Thu,2025-01-06,2025-04-14
+SEC00463,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Remote,EDU-F237,6,Mon/Wed,2025-01-08,2025-04-16
+SEC00464,PHYS183,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F141,6,Mon/Wed,2025-01-12,2025-04-06
+SEC00465,PHYS149,Computational Physics,Physics,Winter 2025,Remote,EDU-F254,2,Fri,2025-01-07,2025-04-15
+SEC00466,CHEM202,Analytical Chemistry,Chemistry,Winter 2025,Remote,EDU-F157,6,Tue/Thu,2025-01-09,2025-04-17
+SEC00467,BUS446,Financial Accounting,Business & Management,Winter 2025,Hybrid,EDU-F149,5,Fri,2025-01-13,2025-04-21
+SEC00468,CS309,Databases,Computer Science,Winter 2025,Toronto,EDU-F089,3,Mon/Wed,2025-01-06,2025-03-31
+SEC00469,ECON328,Microeconomics,Economics,Winter 2025,Toronto,EDU-F124,1,Mon/Wed,2025-01-09,2025-04-17
+SEC00470,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Remote,EDU-F039,-2,Fri,2025-01-07,2025-04-15
+SEC00471,BUS240,Project Management,Business & Management,Winter 2025,Remote,EDU-F143,9,Fri,2025-01-07,2025-04-15
+SEC00472,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Hybrid,EDU-F267,10,Tue/Thu,2025-01-08,2025-04-16
+SEC00473,BIO161,Molecular Biology,Biology,Winter 2025,Remote,EDU-F071,2,Tue/Thu,2025-01-09,2025-04-17
+SEC00474,CHEM288,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F026,5,Fri,2025-01-12,2025-04-13
+SEC00475,BUS192,Project Management,Business & Management,Winter 2025,Toronto,EDU-F069,5,Mon/Wed,2025-01-10,2025-04-18
+SEC00476,MTH376,Time Series Analysis,Mathematics & Statistics,Winter 2025,Hybrid,EDU-F005,5,Mon/Wed,2025-01-08,2025-04-02
+SEC00477,CHEM423,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F046,1,Fri,2025-01-09,2025-04-10
+SEC00478,CS239,Data Structures,Computer Science,Winter 2025,Hybrid,EDU-F201,8,Fri,2025-01-08,2025-04-16
+SEC00479,BUS240,Project Management,Business & Management,Winter 2025,Remote,EDU-F170,7,Tue/Thu,2025-01-06,2025-04-07
+SEC00480,PHYS180,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F216,6,Tue/Thu,2025-01-12,2025-04-20
+SEC00481,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F012,6,Fri,2025-01-11,2025-04-05
+SEC00482,ECON245,Microeconomics,Economics,Winter 2025,Toronto,EDU-F199,5,Mon/Wed,2025-01-06,2025-03-31
+SEC00483,ENGT469,Systems Integration,Engineering Technology,Winter 2025,Remote,EDU-F158,5,Mon/Wed,2025-01-13,2025-04-07
+SEC00484,CS276,Machine Learning,Computer Science,Winter 2025,Hybrid,EDU-F026,2,Mon/Wed,2025-01-07,2025-04-08
+SEC00485,PHYS335,Classical Mechanics,Physics,Winter 2025,Toronto,EDU-F037,4,Tue/Thu,2025-01-06,2025-04-07
+SEC00486,CS239,Data Structures,Computer Science,Winter 2025,Remote,EDU-F151,10,Fri,2025-01-09,2025-04-17
+SEC00487,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F181,6,Fri,2025-01-08,2025-04-02
+SEC00488,BIO161,Molecular Biology,Biology,Winter 2025,Toronto,EDU-F015,6,Fri,2025-01-07,2025-04-15
+SEC00489,BUS159,Operations Management,Business & Management,Winter 2025,Toronto,EDU-F040,3,Fri,2025-01-11,2025-04-19
+SEC00490,ENGT196,Systems Integration,Engineering Technology,Winter 2025,Hybrid,EDU-F119,7,Tue/Thu,2025-01-13,2025-04-07
+SEC00491,PSYC301,Research Methods,Psychology,Winter 2025,Remote,EDU-F219,6,Tue/Thu,2025-01-08,2025-04-09
+SEC00492,PHYS149,Computational Physics,Physics,Winter 2025,Remote,EDU-F153,4,Tue/Thu,2025-01-09,2025-04-17
+SEC00493,BUS240,Project Management,Business & Management,Winter 2025,Remote,EDU-F275,6,Fri,2025-01-12,2025-04-20
+SEC00494,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Toronto,EDU-F197,1,Fri,2025-01-10,2025-04-11
+SEC00495,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Remote,EDU-F165,7,Tue/Thu,2025-01-09,2025-04-10
+SEC00496,BIO285,Bioinformatics,Biology,Winter 2025,Remote,EDU-F176,4,Mon/Wed,2025-01-12,2025-04-20
+SEC00497,ECON462,Macroeconomics,Economics,Winter 2025,Toronto,nan,5,Mon/Wed,2025-01-06,2025-04-07
+SEC00498,CS309,Databases,Computer Science,Winter 2025,Hybrid,EDU-F061,2,Fri,2025-01-09,2025-04-17
+SEC00499,ECON328,Microeconomics,Economics,Winter 2025,Remote,EDU-F035,2,Fri,2025-01-09,2025-04-17
+SEC00500,ECON152,Econometrics,Economics,Winter 2025,Toronto,nan,2,Tue/Thu,2025-01-09,2025-04-03
+SEC00501,ECON462,Macroeconomics,Economics,Winter 2025,Hybrid,EDU-F227,2,Tue/Thu,2025-01-08,2025-04-16
+SEC00502,CHEM394,Organic Chemistry,Chemistry,Winter 2025,Hybrid,EDU-F126,3,Fri,2025-01-12,2025-04-20
+SEC00503,ECON265,Econometrics,Economics,Winter 2025,Hybrid,EDU-F114,3,Mon/Wed,2025-01-07,2025-04-15
+SEC00504,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Remote,EDU-F052,4,Fri,2025-01-11,2025-04-19
+SEC00505,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F140,2,Tue/Thu,2025-01-12,2025-04-20
+SEC00506,BIO227,Microbiology,Biology,Winter 2025,Toronto,EDU-F176,4,Fri,2025-01-07,2025-04-01
+SEC00507,CS239,Data Structures,Computer Science,Winter 2025,Remote,EDU-F279,6,Tue/Thu,2025-01-10,2025-04-11
+SEC00508,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F015,7,Mon/Wed,2025-01-08,2025-04-16
+SEC00509,PHYS183,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F268,4,Fri,2025-01-06,2025-04-14
+SEC00510,PHYS149,Computational Physics,Physics,Winter 2025,Toronto,EDU-F241,2,Tue/Thu,2025-01-07,2025-04-01
+SEC00511,ECON489,Econometrics,Economics,Winter 2025,Remote,EDU-F256,2,Fri,2025-01-10,2025-04-04
+SEC00512,PSYC301,Research Methods,Psychology,Winter 2025,Remote,EDU-F255,4,Mon/Wed,2025-01-08,2025-04-16
+SEC00513,PHYS396,Thermodynamics,Physics,Winter 2025,Toronto,EDU-F243,4,Tue/Thu,2025-01-10,2025-04-18
+SEC00514,BIO161,Molecular Biology,Biology,Winter 2025,Hybrid,EDU-F096,2,Mon/Wed,2025-01-08,2025-04-16
+SEC00515,BUS446,Financial Accounting,Business & Management,Winter 2025,Hybrid,nan,5,Mon/Wed,2025-01-13,2025-04-21
+SEC00516,PSYC301,Research Methods,Psychology,Winter 2025,Remote,EDU-F128,5,Tue/Thu,2025-01-11,2025-04-12
+SEC00517,PHYS183,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F116,3,Mon/Wed,2025-01-11,2025-04-19
+SEC00518,ENGT398,Network Architecture,Engineering Technology,Winter 2025,Remote,EDU-F146,4,Tue/Thu,2025-01-12,2025-04-13
+SEC00519,CS326,Software Engineering,Computer Science,Winter 2025,Toronto,nan,2,Tue/Thu,2025-01-08,2025-04-09
+SEC00520,ENGT476,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F199,1,Mon/Wed,2025-01-12,2025-04-06
+SEC00521,BIO161,Molecular Biology,Biology,Winter 2025,Toronto,EDU-F132,3,Tue/Thu,2025-01-10,2025-04-04
+SEC00522,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Remote,EDU-F147,2,Tue/Thu,2025-01-07,2025-04-01
+SEC00523,CHEM346,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F181,2,Mon/Wed,2025-01-08,2025-04-02
+SEC00524,ECON297,Game Theory,Economics,Winter 2025,Toronto,EDU-F056,3,Mon/Wed,2025-01-08,2025-04-02
+SEC00525,ENGT196,Systems Integration,Engineering Technology,Winter 2025,Hybrid,EDU-F123,3,Mon/Wed,2025-01-07,2025-04-08
+SEC00526,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Remote,EDU-F256,6,Tue/Thu,2025-01-09,2025-04-17
+SEC00527,PSYC301,Research Methods,Psychology,Winter 2025,Remote,EDU-F259,6,Fri,2025-01-13,2025-04-07
+SEC00528,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Remote,nan,5,Fri,2025-01-11,2025-04-19
+SEC00529,BUS192,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F065,4,Fri,2025-01-12,2025-04-20
+SEC00530,ENGT398,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F225,7,Tue/Thu,2025-01-11,2025-04-05
+SEC00531,BIO228,Bioinformatics,Biology,Winter 2025,Hybrid,EDU-F132,1,Mon/Wed,2025-01-08,2025-04-16
+SEC00532,ECON100,Econometrics,Economics,Winter 2025,Toronto,EDU-F181,2,Fri,2025-01-13,2025-04-21
+SEC00533,CS423,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F273,3,Fri,2025-01-08,2025-04-16
+SEC00534,BIO243,Genetics,Biology,Winter 2025,Remote,EDU-F128,4,Mon/Wed,2025-01-09,2025-04-03
+SEC00535,PHYS226,Quantum Mechanics,Physics,Winter 2025,Remote,EDU-F177,1,Mon/Wed,2025-01-12,2025-04-13
+SEC00536,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Hybrid,EDU-F121,6,Tue/Thu,2025-01-10,2025-04-04
+SEC00537,PHYS149,Computational Physics,Physics,Winter 2025,Toronto,EDU-F116,1,Fri,2025-01-11,2025-04-05
+SEC00538,PHYS396,Thermodynamics,Physics,Winter 2025,Remote,EDU-F262,4,Tue/Thu,2025-01-08,2025-04-16
+SEC00539,ECON328,Microeconomics,Economics,Winter 2025,Hybrid,EDU-F027,6,Tue/Thu,2025-01-07,2025-04-01
+SEC00540,BIO243,Genetics,Biology,Winter 2025,Remote,EDU-F208,6,Fri,2025-01-07,2025-04-01
+SEC00541,CS177,Cloud Computing,Computer Science,Winter 2025,Toronto,EDU-F222,3,Tue/Thu,2025-01-06,2025-04-14
+SEC00542,BIO271,Microbiology,Biology,Winter 2025,Hybrid,EDU-F146,-2,Tue/Thu,2025-01-12,2025-04-13
+SEC00543,PHYS335,Classical Mechanics,Physics,Winter 2025,Hybrid,EDU-F095,3,Tue/Thu,2025-01-07,2025-04-01
+SEC00544,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Toronto,nan,4,Fri,2025-01-09,2025-04-03
+SEC00545,ENGT196,Systems Integration,Engineering Technology,Winter 2025,Remote,EDU-F200,1,Mon/Wed,2025-01-07,2025-04-01
+SEC00546,ECON462,Macroeconomics,Economics,Winter 2025,Hybrid,EDU-F145,2,Mon/Wed,2025-01-06,2025-03-31
+SEC00547,CHEM333,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F046,7,Mon/Wed,2025-01-12,2025-04-20
+SEC00548,PHYS149,Computational Physics,Physics,Winter 2025,Hybrid,EDU-F180,4,Tue/Thu,2025-01-12,2025-04-13
+SEC00549,ECON462,Macroeconomics,Economics,Winter 2025,Remote,EDU-F253,5,Fri,2025-01-11,2025-04-12
+SEC00550,ECON265,Econometrics,Economics,Winter 2025,Remote,EDU-F262,3,Fri,2025-01-06,2025-03-31
+SEC00551,PHYS226,Quantum Mechanics,Physics,Winter 2025,Remote,EDU-F245,1,Fri,2025-01-08,2025-04-16
+SEC00552,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Hybrid,EDU-F230,5,Tue/Thu,2025-01-11,2025-04-12
+SEC00553,ENGT398,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F193,3,Mon/Wed,2025-01-06,2025-04-14
+SEC00554,PSYC308,Cognitive Psychology,Psychology,Winter 2025,Hybrid,EDU-F116,2,Mon/Wed,2025-01-10,2025-04-18
+SEC00555,ECON328,Microeconomics,Economics,Winter 2025,Remote,nan,8,Tue/Thu,2025-01-13,2025-04-07
+SEC00556,BIO161,Molecular Biology,Biology,Winter 2025,Remote,EDU-F010,3,Mon/Wed,2025-01-08,2025-04-09
+SEC00557,CS276,Machine Learning,Computer Science,Winter 2025,Remote,EDU-F100,4,Mon/Wed,2025-01-13,2025-04-21
+SEC00558,ECON297,Game Theory,Economics,Winter 2025,Hybrid,EDU-F175,3,Fri,2025-01-11,2025-04-19
+SEC00559,BUS159,Operations Management,Business & Management,Winter 2025,Remote,EDU-F069,1,Tue/Thu,2025-01-08,2025-04-02
+SEC00560,ECON489,Econometrics,Economics,Winter 2025,Hybrid,EDU-F134,3,Mon/Wed,2025-01-07,2025-04-08
+SEC00561,BIO222,Microbiology,Biology,Winter 2025,Toronto,EDU-F208,2,Mon/Wed,2025-01-09,2025-04-10
+SEC00562,BIO228,Bioinformatics,Biology,Winter 2025,Remote,EDU-F201,1,Fri,2025-01-07,2025-04-01
+SEC00563,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Hybrid,EDU-F226,5,Fri,2025-01-13,2025-04-14
+SEC00564,PSYC308,Cognitive Psychology,Psychology,Winter 2025,Toronto,EDU-F262,3,Tue/Thu,2025-01-06,2025-03-31
+SEC00565,BIO271,Microbiology,Biology,Winter 2025,Remote,EDU-F010,3,Tue/Thu,2025-01-13,2025-04-07
+SEC00566,ECON152,Econometrics,Economics,Winter 2025,Toronto,EDU-F114,2,Fri,2025-01-09,2025-04-17
+SEC00567,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Toronto,EDU-F151,3,Fri,2025-01-06,2025-03-31
+SEC00568,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Remote,EDU-F034,6,Tue/Thu,2025-01-12,2025-04-20
+SEC00569,ENGT292,IoT Fundamentals,Engineering Technology,Winter 2025,Toronto,EDU-F227,7,Mon/Wed,2025-01-09,2025-04-17
+SEC00570,CHEM333,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F135,2,Fri,2025-01-11,2025-04-19
+SEC00571,CHEM346,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F026,3,Fri,2025-01-08,2025-04-09
+SEC00572,ENGT469,Systems Integration,Engineering Technology,Winter 2025,Remote,nan,3,Tue/Thu,2025-01-07,2025-04-15
+SEC00573,CS239,Data Structures,Computer Science,Winter 2025,Remote,EDU-F066,5,Mon/Wed,2025-01-13,2025-04-07
+SEC00574,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Toronto,EDU-F166,5,Fri,2025-01-09,2025-04-10
+SEC00575,BUS192,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F269,3,Mon/Wed,2025-01-12,2025-04-13
+SEC00576,ECON245,Microeconomics,Economics,Winter 2025,Remote,EDU-F236,5,Tue/Thu,2025-01-11,2025-04-12
+SEC00577,CS423,Software Engineering,Computer Science,Winter 2025,Remote,EDU-F266,1,Tue/Thu,2025-01-10,2025-04-11
+SEC00578,BIO227,Microbiology,Biology,Winter 2025,Remote,EDU-F145,3,Mon/Wed,2025-01-12,2025-04-06
+SEC00579,ENGT476,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F120,2,Mon/Wed,2025-01-11,2025-04-12
+SEC00580,PHYS226,Quantum Mechanics,Physics,Winter 2025,Remote,EDU-F191,1,Fri,2025-01-11,2025-04-12
+SEC00581,ECON152,Econometrics,Economics,Winter 2025,Remote,EDU-F056,6,Tue/Thu,2025-01-10,2025-04-18
+SEC00582,BIO271,Microbiology,Biology,Winter 2025,Hybrid,EDU-F035,5,Tue/Thu,2025-01-08,2025-04-09
+SEC00583,ENGT233,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F250,6,Mon/Wed,2025-01-11,2025-04-19
+SEC00584,PSYC136,Cognitive Psychology,Psychology,Winter 2025,Toronto,EDU-F242,3,Tue/Thu,2025-01-08,2025-04-09
+SEC00585,PSYC308,Cognitive Psychology,Psychology,Winter 2025,Toronto,nan,2,Fri,2025-01-07,2025-04-15
+SEC00586,PHYS226,Quantum Mechanics,Physics,Winter 2025,Hybrid,EDU-F102,2,Tue/Thu,2025-01-07,2025-04-08
+SEC00587,CHEM288,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F168,5,Mon/Wed,2025-01-08,2025-04-02
+SEC00588,CHEM333,Chemometrics,Chemistry,Winter 2025,Toronto,EDU-F262,1,Tue/Thu,2025-01-11,2025-04-12
+SEC00589,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Remote,EDU-F251,2,Mon/Wed,2025-01-11,2025-04-19
+SEC00590,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F104,1,Tue/Thu,2025-01-08,2025-04-09
+SEC00591,BIO227,Microbiology,Biology,Winter 2025,Hybrid,EDU-F175,5,Fri,2025-01-08,2025-04-09
+SEC00592,CS117,Cloud Computing,Computer Science,Winter 2025,Remote,EDU-F266,4,Tue/Thu,2025-01-06,2025-03-31
+SEC00593,ECON265,Econometrics,Economics,Winter 2025,Toronto,EDU-F058,4,Tue/Thu,2025-01-11,2025-04-19
+SEC00594,PHYS335,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F245,4,Tue/Thu,2025-01-13,2025-04-14
+SEC00595,ECON489,Econometrics,Economics,Winter 2025,Hybrid,EDU-F256,3,Fri,2025-01-12,2025-04-06
+SEC00596,ECON265,Econometrics,Economics,Winter 2025,Remote,EDU-F222,3,Tue/Thu,2025-01-12,2025-04-06
+SEC00597,CHEM498,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F034,3,Tue/Thu,2025-01-09,2025-04-17
+SEC00598,ECON152,Econometrics,Economics,Winter 2025,Toronto,EDU-F085,3,Fri,2025-01-08,2025-04-02
+SEC00599,ENGT389,IoT Fundamentals,Engineering Technology,Winter 2025,Toronto,EDU-F189,1,Fri,2025-01-13,2025-04-14
+SEC00600,CHEM498,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F181,1,Tue/Thu,2025-01-11,2025-04-19
+SEC00601,ECON462,Macroeconomics,Economics,Winter 2025,Toronto,EDU-F124,4,Mon/Wed,2025-01-10,2025-04-04
+SEC00602,CHEM346,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F200,5,Tue/Thu,2025-01-12,2025-04-20
+SEC00603,ENGT344,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F137,2,Mon/Wed,2025-01-11,2025-04-12
+SEC00604,BIO161,Molecular Biology,Biology,Winter 2025,Remote,EDU-F013,7,Mon/Wed,2025-01-10,2025-04-18
+SEC00605,CS177,Cloud Computing,Computer Science,Winter 2025,Hybrid,EDU-F248,5,Fri,2025-01-13,2025-04-21
+SEC00606,CS180,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F106,1,Tue/Thu,2025-01-06,2025-03-31
+SEC00607,CS326,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F213,5,Mon/Wed,2025-01-09,2025-04-10
+SEC00608,BUS226,Financial Accounting,Business & Management,Winter 2025,Remote,EDU-F127,5,Fri,2025-01-06,2025-04-07
+SEC00609,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Hybrid,EDU-F124,1,Tue/Thu,2025-01-08,2025-04-02
+SEC00610,BUS192,Project Management,Business & Management,Winter 2025,Remote,EDU-F163,4,Mon/Wed,2025-01-06,2025-03-31
+SEC00611,CS309,Databases,Computer Science,Winter 2025,Remote,EDU-F208,6,Fri,2025-01-07,2025-04-08
+SEC00612,CHEM423,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F157,7,Mon/Wed,2025-01-08,2025-04-02
+SEC00613,CHEM346,Chemometrics,Chemistry,Winter 2025,Hybrid,EDU-F199,4,Tue/Thu,2025-01-12,2025-04-06
+SEC00614,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F150,1,Fri,2025-01-13,2025-04-21
+SEC00615,BIO271,Microbiology,Biology,Winter 2025,Hybrid,EDU-F010,5,Fri,2025-01-12,2025-04-13
+SEC00616,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F231,2,Fri,2025-01-11,2025-04-05
+SEC00617,CHEM483,Analytical Chemistry,Chemistry,Winter 2025,Toronto,EDU-F168,6,Fri,2025-01-13,2025-04-21
+SEC00618,PHYS183,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F208,3,Tue/Thu,2025-01-10,2025-04-11
+SEC00619,ECON328,Microeconomics,Economics,Winter 2025,Remote,EDU-F147,4,Fri,2025-01-09,2025-04-17
+SEC00620,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Remote,EDU-F263,1,Fri,2025-01-13,2025-04-21
+SEC00621,ENGT407,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F026,2,Tue/Thu,2025-01-13,2025-04-07
+SEC00622,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F055,5,Tue/Thu,2025-01-13,2025-04-14
+SEC00623,PHYS180,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F111,3,Fri,2025-01-07,2025-04-15
+SEC00624,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Toronto,EDU-F182,2,Tue/Thu,2025-01-09,2025-04-03
+SEC00625,PSYC174,Behavioural Analytics,Psychology,Winter 2025,Remote,EDU-F132,4,Mon/Wed,2025-01-06,2025-04-14
+SEC00626,CHEM288,Chemometrics,Chemistry,Winter 2025,Remote,EDU-F260,5,Tue/Thu,2025-01-11,2025-04-05
+SEC00627,ECON100,Econometrics,Economics,Winter 2025,Toronto,EDU-F013,2,Mon/Wed,2025-01-06,2025-03-31
+SEC00628,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Toronto,EDU-F261,1,Fri,2025-01-11,2025-04-19
+SEC00629,PHYS183,Classical Mechanics,Physics,Winter 2025,Remote,EDU-F177,2,Tue/Thu,2025-01-07,2025-04-01
+SEC00630,CS423,Software Engineering,Computer Science,Winter 2025,Remote,EDU-F194,4,Mon/Wed,2025-01-08,2025-04-02
+SEC00631,PHYS396,Thermodynamics,Physics,Winter 2025,Toronto,EDU-F191,9,Tue/Thu,2025-01-10,2025-04-11
+SEC00632,ENGT344,Embedded Systems,Engineering Technology,Winter 2025,Remote,EDU-F207,7,Tue/Thu,2025-01-06,2025-03-31
+SEC00633,CS309,Databases,Computer Science,Winter 2025,Remote,EDU-F126,5,Fri,2025-01-07,2025-04-08
+SEC00634,ENGT344,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F121,4,Tue/Thu,2025-01-07,2025-04-01
+SEC00635,BIO222,Microbiology,Biology,Winter 2025,Toronto,EDU-F074,2,Mon/Wed,2025-01-12,2025-04-20
+SEC00636,ECON245,Microeconomics,Economics,Winter 2025,Remote,EDU-F259,1,Fri,2025-01-06,2025-03-31
+SEC00637,BIO222,Microbiology,Biology,Winter 2025,Hybrid,EDU-F012,1,Fri,2025-01-08,2025-04-09
+SEC00638,CHEM483,Analytical Chemistry,Chemistry,Winter 2025,Remote,EDU-F145,5,Tue/Thu,2025-01-10,2025-04-11
+SEC00639,ENGT258,Quality Assurance,Engineering Technology,Winter 2025,Hybrid,EDU-F152,1,Mon/Wed,2025-01-10,2025-04-11
+SEC00640,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Remote,nan,4,Mon/Wed,2025-01-11,2025-04-19
+SEC00641,BIO228,Bioinformatics,Biology,Spring 2025,Toronto,EDU-F077,7,Fri,2025-05-06,2025-08-12
+SEC00642,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Hybrid,EDU-F199,3,Mon/Wed,2025-05-07,2025-07-30
+SEC00643,CHEM423,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F002,1,Fri,2025-05-06,2025-08-05
+SEC00644,ECON146,Microeconomics,Economics,Spring 2025,Toronto,EDU-F085,6,Fri,2025-05-12,2025-08-18
+SEC00645,BUS226,Financial Accounting,Business & Management,Spring 2025,Hybrid,EDU-F256,5,Mon/Wed,2025-05-08,2025-07-31
+SEC00646,ENGT398,Network Architecture,Engineering Technology,Spring 2025,Remote,EDU-F163,1,Tue/Thu,2025-05-08,2025-08-14
+SEC00647,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Hybrid,EDU-F228,2,Mon/Wed,2025-05-05,2025-08-04
+SEC00648,CHEM423,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F136,1,Tue/Thu,2025-05-11,2025-08-03
+SEC00649,BIO222,Microbiology,Biology,Spring 2025,Hybrid,EDU-F071,1,Tue/Thu,2025-05-08,2025-08-14
+SEC00650,CS326,Software Engineering,Computer Science,Spring 2025,Hybrid,EDU-F095,2,Mon/Wed,2025-05-11,2025-08-03
+SEC00651,CS177,Cloud Computing,Computer Science,Spring 2025,Toronto,EDU-F201,4,Tue/Thu,2025-05-05,2025-07-28
+SEC00652,CHEM288,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F055,5,Mon/Wed,2025-05-09,2025-08-08
+SEC00653,ECON489,Econometrics,Economics,Spring 2025,Remote,EDU-F186,8,Fri,2025-05-06,2025-07-29
+SEC00654,ENGT469,Systems Integration,Engineering Technology,Spring 2025,Hybrid,EDU-F174,2,Fri,2025-05-07,2025-08-13
+SEC00655,BIO161,Molecular Biology,Biology,Spring 2025,Hybrid,EDU-F208,3,Fri,2025-05-06,2025-08-05
+SEC00656,BIO161,Molecular Biology,Biology,Spring 2025,Toronto,EDU-F073,1,Mon/Wed,2025-05-07,2025-08-06
+SEC00657,BIO285,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F189,,Tue/Thu,2025-05-12,2025-08-18
+SEC00658,CS177,Cloud Computing,Computer Science,Spring 2025,Toronto,EDU-F058,7,Mon/Wed,2025-05-10,2025-08-02
+SEC00659,BUS446,Financial Accounting,Business & Management,Spring 2025,Remote,EDU-F158,6,Tue/Thu,2025-05-08,2025-08-14
+SEC00660,BIO271,Microbiology,Biology,Spring 2025,Hybrid,EDU-F253,6,Tue/Thu,2025-05-06,2025-08-05
+SEC00661,PHYS335,Classical Mechanics,Physics,Spring 2025,Toronto,EDU-F110,4,Tue/Thu,2025-05-12,2025-08-18
+SEC00662,BUS192,Project Management,Business & Management,Spring 2025,Toronto,EDU-F269,5,Mon/Wed,2025-05-11,2025-08-03
+SEC00663,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Remote,EDU-F157,5,Mon/Wed,2025-05-09,2025-08-15
+SEC00664,BIO285,Bioinformatics,Biology,Spring 2025,Remote,EDU-F071,4,Tue/Thu,2025-05-08,2025-08-07
+SEC00665,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Hybrid,EDU-F032,2,Tue/Thu,2025-05-11,2025-08-03
+SEC00666,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F217,3,Fri,2025-05-06,2025-07-29
+SEC00667,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Hybrid,EDU-F272,3,Mon/Wed,2025-05-08,2025-08-07
+SEC00668,BIO263,Bioinformatics,Biology,Spring 2025,Remote,EDU-F097,1,Mon/Wed,2025-05-09,2025-08-01
+SEC00669,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F230,4,Tue/Thu,2025-05-10,2025-08-02
+SEC00670,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Hybrid,EDU-F106,1,Tue/Thu,2025-05-11,2025-08-10
+SEC00671,PHYS149,Computational Physics,Physics,Spring 2025,Toronto,EDU-F191,4,Mon/Wed,2025-05-05,2025-08-04
+SEC00672,ECON128,Microeconomics,Economics,Spring 2025,Remote,EDU-F239,4,Tue/Thu,2025-05-05,2025-08-11
+SEC00673,ECON328,Microeconomics,Economics,Spring 2025,Remote,EDU-F028,1,Fri,2025-05-11,2025-08-10
+SEC00674,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Toronto,nan,3,Mon/Wed,2025-05-11,2025-08-03
+SEC00675,BUS159,Operations Management,Business & Management,Spring 2025,Hybrid,EDU-F083,3,Mon/Wed,2025-05-06,2025-08-05
+SEC00676,CS326,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F082,6,Tue/Thu,2025-05-12,2025-08-04
+SEC00677,ECON245,Microeconomics,Economics,Spring 2025,Toronto,EDU-F254,4,Fri,2025-05-05,2025-07-28
+SEC00678,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F170,2,Tue/Thu,2025-05-10,2025-08-16
+SEC00679,ENGT398,Network Architecture,Engineering Technology,Spring 2025,Remote,EDU-F123,1,Mon/Wed,2025-05-10,2025-08-09
+SEC00680,CS239,Data Structures,Computer Science,Spring 2025,Remote,EDU-F061,7,Tue/Thu,2025-05-12,2025-08-11
+SEC00681,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F046,1,Mon/Wed,2025-05-08,2025-08-14
+SEC00682,CS326,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F201,2,Tue/Thu,2025-05-09,2025-08-01
+SEC00683,CS421,Data Structures,Computer Science,Spring 2025,Remote,EDU-F034,6,Tue/Thu,2025-05-05,2025-08-11
+SEC00684,BUS226,Financial Accounting,Business & Management,Spring 2025,Remote,EDU-F163,6,Mon/Wed,2025-05-10,2025-08-02
+SEC00685,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F014,4,Tue/Thu,2025-05-10,2025-08-09
+SEC00686,BIO161,Molecular Biology,Biology,Spring 2025,Remote,EDU-F071,3,Fri,2025-05-12,2025-08-11
+SEC00687,CS276,Machine Learning,Computer Science,Spring 2025,Remote,EDU-F051,1,Fri,2025-05-10,2025-08-09
+SEC00688,PHYS335,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F167,2,Tue/Thu,2025-05-06,2025-08-05
+SEC00689,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Toronto,EDU-F227,4,Mon/Wed,2025-05-12,2025-08-18
+SEC00690,CS239,Data Structures,Computer Science,Spring 2025,Toronto,EDU-F143,3,Mon/Wed,2025-05-11,2025-08-17
+SEC00691,ENGT233,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F207,6,Tue/Thu,2025-05-06,2025-08-12
+SEC00692,ENGT398,Network Architecture,Engineering Technology,Spring 2025,Toronto,nan,3,Tue/Thu,2025-05-11,2025-08-10
+SEC00693,ECON128,Microeconomics,Economics,Spring 2025,Toronto,EDU-F114,3,Fri,2025-05-06,2025-08-12
+SEC00694,BUS192,Project Management,Business & Management,Spring 2025,Toronto,EDU-F138,1,Fri,2025-05-06,2025-08-12
+SEC00695,CHEM423,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F018,1,Tue/Thu,2025-05-10,2025-08-02
+SEC00696,PHYS335,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F093,5,Mon/Wed,2025-05-06,2025-08-05
+SEC00697,ECON489,Econometrics,Economics,Spring 2025,Hybrid,EDU-F259,3,Mon/Wed,2025-05-06,2025-08-12
+SEC00698,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Hybrid,EDU-F015,4,Tue/Thu,2025-05-08,2025-08-14
+SEC00699,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Toronto,EDU-F051,4,Tue/Thu,2025-05-10,2025-08-09
+SEC00700,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Remote,EDU-F107,3,Fri,2025-05-07,2025-08-06
+SEC00701,BIO222,Microbiology,Biology,Spring 2025,Remote,EDU-F076,3,Tue/Thu,2025-05-08,2025-07-31
+SEC00702,CS276,Machine Learning,Computer Science,Spring 2025,Hybrid,EDU-F214,2,Tue/Thu,2025-05-08,2025-08-07
+SEC00703,BUS240,Project Management,Business & Management,Spring 2025,Remote,EDU-F064,7,Fri,2025-05-08,2025-08-14
+SEC00704,CS423,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F223,3,Fri,2025-05-12,2025-08-04
+SEC00705,CHEM483,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F210,5,Tue/Thu,2025-05-09,2025-08-01
+SEC00706,BUS240,Project Management,Business & Management,Spring 2025,Hybrid,EDU-F043,7,Fri,2025-05-10,2025-08-09
+SEC00707,ENGT476,Embedded Systems,Engineering Technology,Spring 2025,Remote,EDU-F076,3,Tue/Thu,2025-05-10,2025-08-09
+SEC00708,ENGT258,Quality Assurance,Engineering Technology,Spring 2025,Toronto,EDU-F009,2,Fri,2025-05-06,2025-07-29
+SEC00709,BUS240,Project Management,Business & Management,Spring 2025,Remote,EDU-F232,7,Tue/Thu,2025-05-08,2025-08-07
+SEC00710,ECON100,Econometrics,Economics,Spring 2025,Remote,EDU-F169,2,Fri,2025-05-10,2025-08-02
+SEC00711,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Hybrid,EDU-F065,3,Fri,2025-05-06,2025-08-12
+SEC00712,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F238,6,Fri,2025-05-09,2025-08-08
+SEC00713,BUS159,Operations Management,Business & Management,Spring 2025,Hybrid,EDU-F170,3,Tue/Thu,2025-05-09,2025-08-01
+SEC00714,ECON100,Econometrics,Economics,Spring 2025,Remote,EDU-F027,1,Mon/Wed,2025-05-11,2025-08-10
+SEC00715,ECON489,Econometrics,Economics,Spring 2025,Hybrid,EDU-F134,4,Mon/Wed,2025-05-09,2025-08-15
+SEC00716,ENGT476,Embedded Systems,Engineering Technology,Spring 2025,Toronto,EDU-F184,2,Mon/Wed,2025-05-12,2025-08-18
+SEC00717,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Remote,EDU-F003,3,Fri,2025-05-08,2025-08-14
+SEC00718,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Remote,EDU-F110,5,Tue/Thu,2025-05-07,2025-07-30
+SEC00719,ENGT469,Systems Integration,Engineering Technology,Spring 2025,Remote,EDU-F244,5,Tue/Thu,2025-05-11,2025-08-17
+SEC00720,ECON265,Econometrics,Economics,Spring 2025,Remote,EDU-F085,4,Tue/Thu,2025-05-11,2025-08-10
+SEC00721,CHEM130,Organic Chemistry,Chemistry,Spring 2025,Toronto,EDU-F157,1,Mon/Wed,2025-05-08,2025-08-07
+SEC00722,BIO227,Microbiology,Biology,Spring 2025,Hybrid,EDU-F279,4,Fri,2025-05-08,2025-07-31
+SEC00723,PHYS149,Computational Physics,Physics,Spring 2025,Remote,EDU-F074,3,Fri,2025-05-07,2025-08-13
+SEC00724,BUS192,Project Management,Business & Management,Spring 2025,Hybrid,EDU-F075,2,Mon/Wed,2025-05-10,2025-08-09
+SEC00725,ECON128,Microeconomics,Economics,Spring 2025,Remote,EDU-F085,7,Mon/Wed,2025-05-05,2025-07-28
+SEC00726,BIO263,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F229,3,Tue/Thu,2025-05-11,2025-08-17
+SEC00727,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F056,5,Mon/Wed,2025-05-09,2025-08-08
+SEC00728,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F018,2,Fri,2025-05-05,2025-07-28
+SEC00729,CHEM288,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F181,6,Tue/Thu,2025-05-12,2025-08-04
+SEC00730,ECON152,Econometrics,Economics,Spring 2025,Remote,EDU-F048,1,Tue/Thu,2025-05-11,2025-08-17
+SEC00731,BIO161,Molecular Biology,Biology,Spring 2025,Toronto,EDU-F275,2,Fri,2025-05-12,2025-08-04
+SEC00732,BUS226,Financial Accounting,Business & Management,Spring 2025,Hybrid,EDU-F248,9,Fri,2025-05-12,2025-08-04
+SEC00733,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Hybrid,EDU-F131,3,Tue/Thu,2025-05-11,2025-08-17
+SEC00734,CS423,Software Engineering,Computer Science,Spring 2025,Hybrid,nan,6,Tue/Thu,2025-05-10,2025-08-16
+SEC00735,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Hybrid,EDU-F046,3,Fri,2025-05-11,2025-08-03
+SEC00736,ENGT233,Embedded Systems,Engineering Technology,Spring 2025,Remote,EDU-F003,6,Mon/Wed,2025-05-11,2025-08-03
+SEC00737,CS180,Software Engineering,Computer Science,Spring 2025,Hybrid,EDU-F080,2,Tue/Thu,2025-05-05,2025-07-28
+SEC00738,BIO228,Bioinformatics,Biology,Spring 2025,Remote,EDU-F178,1,Tue/Thu,2025-05-10,2025-08-16
+SEC00739,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F055,6,Mon/Wed,2025-05-06,2025-08-05
+SEC00740,BIO222,Microbiology,Biology,Spring 2025,Toronto,EDU-F142,1,Fri,2025-05-09,2025-08-08
+SEC00741,ECON128,Microeconomics,Economics,Spring 2025,Hybrid,EDU-F088,5,Fri,2025-05-05,2025-07-28
+SEC00742,CS177,Cloud Computing,Computer Science,Spring 2025,Hybrid,EDU-F024,2,Mon/Wed,2025-05-09,2025-08-01
+SEC00743,ECON100,Econometrics,Economics,Spring 2025,Remote,EDU-F195,2,Tue/Thu,2025-05-10,2025-08-09
+SEC00744,ECON128,Microeconomics,Economics,Spring 2025,Remote,nan,2,Tue/Thu,2025-05-11,2025-08-03
+SEC00745,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Remote,EDU-F072,2,Fri,2025-05-12,2025-08-11
+SEC00746,CHEM498,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F207,1,Mon/Wed,2025-05-07,2025-08-06
+SEC00747,ENGT407,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F117,1,Mon/Wed,2025-05-05,2025-08-04
+SEC00748,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Remote,EDU-F014,-2,Fri,2025-05-05,2025-08-04
+SEC00749,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Hybrid,EDU-F088,4,Mon/Wed,2025-05-10,2025-08-09
+SEC00750,BUS192,Project Management,Business & Management,Spring 2025,Remote,nan,3,Tue/Thu,2025-05-08,2025-08-14
+SEC00751,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F162,7,Fri,2025-05-10,2025-08-09
+SEC00752,ECON152,Econometrics,Economics,Spring 2025,Remote,EDU-F065,2,Fri,2025-05-10,2025-08-09
+SEC00753,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Toronto,EDU-F207,4,Fri,2025-05-06,2025-07-29
+SEC00754,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F144,7,Mon/Wed,2025-05-11,2025-08-10
+SEC00755,BIO227,Microbiology,Biology,Spring 2025,Toronto,EDU-F073,4,Mon/Wed,2025-05-08,2025-08-14
+SEC00756,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Remote,EDU-F006,3,Fri,2025-05-08,2025-07-31
+SEC00757,PHYS396,Thermodynamics,Physics,Spring 2025,Remote,EDU-F132,2,Fri,2025-05-06,2025-08-12
+SEC00758,BUS226,Financial Accounting,Business & Management,Spring 2025,Hybrid,EDU-F136,6,Tue/Thu,2025-05-06,2025-08-05
+SEC00759,CS309,Databases,Computer Science,Spring 2025,Remote,EDU-F124,4,Tue/Thu,2025-05-08,2025-08-14
+SEC00760,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Toronto,EDU-F271,3,Mon/Wed,2025-05-07,2025-07-30
+SEC00761,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Hybrid,EDU-F172,3,Fri,2025-05-08,2025-07-31
+SEC00762,ENGT476,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F192,,Fri,2025-05-10,2025-08-16
+SEC00763,CHEM423,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F160,2,Fri,2025-05-06,2025-08-12
+SEC00764,BIO243,Genetics,Biology,Spring 2025,Hybrid,EDU-F042,6,Tue/Thu,2025-05-10,2025-08-09
+SEC00765,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Remote,EDU-F217,4,Mon/Wed,2025-05-11,2025-08-10
+SEC00766,PHYS149,Computational Physics,Physics,Spring 2025,Toronto,EDU-F191,5,Mon/Wed,2025-05-08,2025-07-31
+SEC00767,PHYS149,Computational Physics,Physics,Spring 2025,Toronto,EDU-F171,0,Mon/Wed,2025-05-05,2025-08-11
+SEC00768,CHEM346,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F136,3,Fri,2025-05-07,2025-08-06
+SEC00769,PHYS149,Computational Physics,Physics,Spring 2025,Toronto,EDU-F093,1,Tue/Thu,2025-05-05,2025-08-04
+SEC00770,ECON128,Microeconomics,Economics,Spring 2025,Remote,EDU-F190,3,Mon/Wed,2025-05-08,2025-08-14
+SEC00771,ECON245,Microeconomics,Economics,Spring 2025,Toronto,EDU-F077,5,Mon/Wed,2025-05-07,2025-08-06
+SEC00772,BUS159,Operations Management,Business & Management,Spring 2025,Remote,EDU-F110,2,Mon/Wed,2025-05-05,2025-08-11
+SEC00773,CHEM333,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F151,2,Tue/Thu,2025-05-09,2025-08-08
+SEC00774,ECON245,Microeconomics,Economics,Spring 2025,Hybrid,EDU-F134,4,Tue/Thu,2025-05-09,2025-08-01
+SEC00775,CS117,Cloud Computing,Computer Science,Spring 2025,Hybrid,EDU-F005,4,Fri,2025-05-12,2025-08-18
+SEC00776,PHYS149,Computational Physics,Physics,Spring 2025,Toronto,EDU-F191,3,Fri,2025-05-10,2025-08-16
+SEC00777,CHEM498,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F136,2,Fri,2025-05-10,2025-08-16
+SEC00778,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Remote,EDU-F015,7,Mon/Wed,2025-05-10,2025-08-02
+SEC00779,ECON146,Microeconomics,Economics,Spring 2025,Toronto,EDU-F259,4,Fri,2025-05-07,2025-07-30
+SEC00780,PHYS335,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F112,7,Tue/Thu,2025-05-08,2025-07-31
+SEC00781,ECON297,Game Theory,Economics,Spring 2025,Hybrid,EDU-F195,3,Mon/Wed,2025-05-06,2025-07-29
+SEC00782,ECON152,Econometrics,Economics,Spring 2025,Toronto,EDU-F077,2,Mon/Wed,2025-05-08,2025-08-07
+SEC00783,ECON297,Game Theory,Economics,Spring 2025,Hybrid,EDU-F088,3,Fri,2025-05-06,2025-08-12
+SEC00784,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F084,4,Tue/Thu,2025-05-09,2025-08-08
+SEC00785,BIO228,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F073,5,Tue/Thu,2025-05-12,2025-08-11
+SEC00786,PHYS396,Thermodynamics,Physics,Spring 2025,Hybrid,EDU-F116,5,Fri,2025-05-09,2025-08-01
+SEC00787,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Hybrid,EDU-F027,3,Tue/Thu,2025-05-09,2025-08-15
+SEC00788,ECON152,Econometrics,Economics,Spring 2025,Hybrid,EDU-F116,2,Mon/Wed,2025-05-07,2025-08-06
+SEC00789,ECON328,Microeconomics,Economics,Spring 2025,Toronto,EDU-F077,3,Fri,2025-05-11,2025-08-17
+SEC00790,BIO263,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F246,2,Mon/Wed,2025-05-08,2025-08-07
+SEC00791,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Remote,EDU-F117,8,Mon/Wed,2025-05-12,2025-08-04
+SEC00792,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Toronto,EDU-F076,4,Tue/Thu,2025-05-07,2025-08-13
+SEC00793,ECON328,Microeconomics,Economics,Spring 2025,Remote,EDU-F169,3,Fri,2025-05-11,2025-08-10
+SEC00794,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Toronto,EDU-F224,4,Tue/Thu,2025-05-06,2025-08-12
+SEC00795,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Hybrid,EDU-F193,4,Tue/Thu,2025-05-10,2025-08-09
+SEC00796,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Remote,EDU-F255,5,Tue/Thu,2025-05-12,2025-08-11
+SEC00797,PSYC301,Research Methods,Psychology,Spring 2025,Hybrid,EDU-F079,4,Tue/Thu,2025-05-11,2025-08-10
+SEC00798,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F059,1,Tue/Thu,2025-05-12,2025-08-04
+SEC00799,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Remote,EDU-F071,3,Tue/Thu,2025-05-11,2025-08-17
+SEC00800,ECON489,Econometrics,Economics,Spring 2025,Toronto,EDU-F169,3,Tue/Thu,2025-05-11,2025-08-10
+SEC00801,ENGT233,Embedded Systems,Engineering Technology,Spring 2025,Remote,EDU-F052,6,Mon/Wed,2025-05-10,2025-08-09
+SEC00802,CS239,Data Structures,Computer Science,Spring 2025,Remote,EDU-F080,6,Mon/Wed,2025-05-06,2025-07-29
+SEC00803,CHEM130,Organic Chemistry,Chemistry,Spring 2025,Toronto,EDU-F137,1,Tue/Thu,2025-05-06,2025-08-12
+SEC00804,ECON152,Econometrics,Economics,Spring 2025,Remote,EDU-F147,1,Tue/Thu,2025-05-09,2025-08-01
+SEC00805,CS276,Machine Learning,Computer Science,Spring 2025,Hybrid,EDU-F112,1,Tue/Thu,2025-05-12,2025-08-18
+SEC00806,CS421,Data Structures,Computer Science,Spring 2025,Remote,EDU-F023,6,Mon/Wed,2025-05-05,2025-08-11
+SEC00807,CHEM333,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F157,1,Fri,2025-05-12,2025-08-11
+SEC00808,ECON462,Macroeconomics,Economics,Spring 2025,Hybrid,EDU-F222,7,Mon/Wed,2025-05-11,2025-08-17
+SEC00809,ENGT398,Network Architecture,Engineering Technology,Spring 2025,Remote,EDU-F100,3,Tue/Thu,2025-05-12,2025-08-18
+SEC00810,BIO222,Microbiology,Biology,Spring 2025,Hybrid,EDU-F172,5,Mon/Wed,2025-05-07,2025-08-06
+SEC00811,ECON128,Microeconomics,Economics,Spring 2025,Remote,EDU-F077,5,Fri,2025-05-09,2025-08-15
+SEC00812,BIO243,Genetics,Biology,Spring 2025,Remote,EDU-F175,3,Mon/Wed,2025-05-05,2025-08-11
+SEC00813,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Hybrid,EDU-F272,3,Tue/Thu,2025-05-06,2025-07-29
+SEC00814,CS276,Machine Learning,Computer Science,Spring 2025,Toronto,EDU-F251,1,Tue/Thu,2025-05-11,2025-08-17
+SEC00815,ECON328,Microeconomics,Economics,Spring 2025,Toronto,EDU-F061,2,Mon/Wed,2025-05-05,2025-08-04
+SEC00816,PHYS396,Thermodynamics,Physics,Spring 2025,Remote,EDU-F197,3,Tue/Thu,2025-05-08,2025-07-31
+SEC00817,PHYS226,Quantum Mechanics,Physics,Spring 2025,Remote,EDU-F001,1,Mon/Wed,2025-05-07,2025-08-06
+SEC00818,PHYS180,Classical Mechanics,Physics,Spring 2025,Toronto,EDU-F125,9,Fri,2025-05-07,2025-08-06
+SEC00819,BIO227,Microbiology,Biology,Spring 2025,Toronto,EDU-F090,4,Mon/Wed,2025-05-11,2025-08-03
+SEC00820,CHEM483,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F034,6,Tue/Thu,2025-05-11,2025-08-03
+SEC00821,CHEM288,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F214,6,Mon/Wed,2025-05-06,2025-07-29
+SEC00822,CHEM333,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F076,1,Mon/Wed,2025-05-08,2025-08-07
+SEC00823,ECON462,Macroeconomics,Economics,Spring 2025,Toronto,EDU-F169,1,Tue/Thu,2025-05-08,2025-07-31
+SEC00824,CS423,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F189,2,Tue/Thu,2025-05-09,2025-08-01
+SEC00825,BUS446,Financial Accounting,Business & Management,Spring 2025,Remote,EDU-F013,8,Fri,2025-05-07,2025-07-30
+SEC00826,BIO161,Molecular Biology,Biology,Spring 2025,Remote,EDU-F070,5,Mon/Wed,2025-05-06,2025-08-12
+SEC00827,PHYS180,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F072,5,Tue/Thu,2025-05-09,2025-08-01
+SEC00828,CS180,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F017,4,Fri,2025-05-08,2025-07-31
+SEC00829,ECON152,Econometrics,Economics,Spring 2025,Hybrid,EDU-F049,2,Fri,2025-05-10,2025-08-09
+SEC00830,ECON100,Econometrics,Economics,Spring 2025,Toronto,nan,2,Mon/Wed,2025-05-11,2025-08-10
+SEC00831,ECON489,Econometrics,Economics,Spring 2025,Toronto,EDU-F035,3,Tue/Thu,2025-05-11,2025-08-17
+SEC00832,PSYC301,Research Methods,Psychology,Spring 2025,Toronto,EDU-F022,3,Tue/Thu,2025-05-06,2025-08-05
+SEC00833,CS177,Cloud Computing,Computer Science,Spring 2025,Remote,EDU-F150,3,Mon/Wed,2025-05-09,2025-08-15
+SEC00834,CS421,Data Structures,Computer Science,Spring 2025,Hybrid,EDU-F201,4,Fri,2025-05-07,2025-08-13
+SEC00835,BIO222,Microbiology,Biology,Spring 2025,Remote,EDU-F260,1,Tue/Thu,2025-05-07,2025-08-06
+SEC00836,BIO228,Bioinformatics,Biology,Spring 2025,Toronto,EDU-F118,2,Fri,2025-05-08,2025-08-07
+SEC00837,ENGT398,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F230,5,Mon/Wed,2025-05-10,2025-08-09
+SEC00838,CHEM483,Analytical Chemistry,Chemistry,Spring 2025,Hybrid,EDU-F260,4,Fri,2025-05-09,2025-08-08
+SEC00839,ECON265,Econometrics,Economics,Spring 2025,Remote,EDU-F035,3,Mon/Wed,2025-05-07,2025-08-06
+SEC00840,ECON245,Microeconomics,Economics,Spring 2025,Hybrid,EDU-F077,3,Fri,2025-05-05,2025-07-28
+SEC00841,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F157,6,Fri,2025-05-07,2025-08-13
+SEC00842,ECON152,Econometrics,Economics,Spring 2025,Hybrid,EDU-F219,2,Fri,2025-05-05,2025-08-11
+SEC00843,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F209,7,Tue/Thu,2025-05-08,2025-07-31
+SEC00844,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Toronto,EDU-F198,4,Tue/Thu,2025-05-12,2025-08-18
+SEC00845,ENGT476,Embedded Systems,Engineering Technology,Spring 2025,Remote,EDU-F146,2,Mon/Wed,2025-05-11,2025-08-03
+SEC00846,CS326,Software Engineering,Computer Science,Spring 2025,Hybrid,EDU-F189,3,Fri,2025-05-08,2025-07-31
+SEC00847,CS326,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F259,8,Mon/Wed,2025-05-12,2025-08-04
+SEC00848,PHYS183,Classical Mechanics,Physics,Spring 2025,Toronto,EDU-F017,4,Tue/Thu,2025-05-07,2025-08-06
+SEC00849,ECON489,Econometrics,Economics,Spring 2025,Remote,EDU-F033,3,Fri,2025-05-08,2025-08-14
+SEC00850,BUS192,Project Management,Business & Management,Spring 2025,Toronto,EDU-F006,3,Tue/Thu,2025-05-12,2025-08-04
+SEC00851,ECON462,Macroeconomics,Economics,Spring 2025,Toronto,EDU-F222,4,Mon/Wed,2025-05-11,2025-08-03
+SEC00852,ECON128,Microeconomics,Economics,Spring 2025,Hybrid,EDU-F130,2,Fri,2025-05-08,2025-07-31
+SEC00853,BUS240,Project Management,Business & Management,Spring 2025,Hybrid,nan,8,Mon/Wed,2025-05-08,2025-08-14
+SEC00854,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Toronto,EDU-F087,3,Mon/Wed,2025-05-05,2025-08-04
+SEC00855,ECON146,Microeconomics,Economics,Spring 2025,Remote,EDU-F154,3,Fri,2025-05-07,2025-08-13
+SEC00856,BIO227,Microbiology,Biology,Spring 2025,Toronto,EDU-F195,4,Mon/Wed,2025-05-09,2025-08-01
+SEC00857,ECON132,Game Theory,Economics,Spring 2025,Remote,EDU-F190,1,Tue/Thu,2025-05-10,2025-08-02
+SEC00858,PHYS149,Computational Physics,Physics,Spring 2025,Hybrid,EDU-F233,3,Mon/Wed,2025-05-05,2025-07-28
+SEC00859,CS239,Data Structures,Computer Science,Spring 2025,Remote,nan,6,Tue/Thu,2025-05-08,2025-08-14
+SEC00860,ECON297,Game Theory,Economics,Spring 2025,Toronto,EDU-F077,3,Fri,2025-05-05,2025-08-04
+SEC00861,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F077,6,Tue/Thu,2025-05-07,2025-08-06
+SEC00862,BUS192,Project Management,Business & Management,Spring 2025,Hybrid,EDU-F086,3,Mon/Wed,2025-05-07,2025-07-30
+SEC00863,CS326,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F251,4,Fri,2025-05-05,2025-08-04
+SEC00864,CS309,Databases,Computer Science,Spring 2025,Hybrid,EDU-F183,2,Mon/Wed,2025-05-05,2025-08-04
+SEC00865,CHEM483,Analytical Chemistry,Chemistry,Spring 2025,Remote,EDU-F221,9,Fri,2025-05-06,2025-07-29
+SEC00866,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Remote,EDU-F199,2,Fri,2025-05-06,2025-07-29
+SEC00867,CS326,Software Engineering,Computer Science,Spring 2025,Hybrid,nan,2,Mon/Wed,2025-05-09,2025-08-15
+SEC00868,CHEM423,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F271,1,Fri,2025-05-05,2025-08-04
+SEC00869,CS180,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F004,4,Fri,2025-05-06,2025-08-05
+SEC00870,ECON152,Econometrics,Economics,Spring 2025,Hybrid,EDU-F134,5,Mon/Wed,2025-05-07,2025-07-30
+SEC00871,ENGT389,IoT Fundamentals,Engineering Technology,Spring 2025,Toronto,EDU-F207,4,Mon/Wed,2025-05-11,2025-08-03
+SEC00872,ECON152,Econometrics,Economics,Spring 2025,Remote,EDU-F200,2,Tue/Thu,2025-05-09,2025-08-08
+SEC00873,ECON146,Microeconomics,Economics,Spring 2025,Toronto,EDU-F147,5,Tue/Thu,2025-05-10,2025-08-02
+SEC00874,BIO227,Microbiology,Biology,Spring 2025,Hybrid,EDU-F136,3,Tue/Thu,2025-05-11,2025-08-10
+SEC00875,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F054,5,Tue/Thu,2025-05-12,2025-08-04
+SEC00876,ECON128,Microeconomics,Economics,Spring 2025,Remote,EDU-F259,3,Fri,2025-05-08,2025-08-07
+SEC00877,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Toronto,EDU-F242,4,Fri,2025-05-05,2025-07-28
+SEC00878,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Toronto,EDU-F197,2,Tue/Thu,2025-05-07,2025-08-13
+SEC00879,CS423,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F205,4,Mon/Wed,2025-05-09,2025-08-15
+SEC00880,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Toronto,EDU-F173,5,Tue/Thu,2025-05-07,2025-08-13
+SEC00881,CS117,Cloud Computing,Computer Science,Spring 2025,Remote,EDU-F020,4,Mon/Wed,2025-05-09,2025-08-08
+SEC00882,PHYS396,Thermodynamics,Physics,Spring 2025,Remote,EDU-F241,2,Fri,2025-05-07,2025-07-30
+SEC00883,CS177,Cloud Computing,Computer Science,Spring 2025,Toronto,EDU-F078,2,Mon/Wed,2025-05-06,2025-07-29
+SEC00884,CS276,Machine Learning,Computer Science,Spring 2025,Toronto,EDU-F205,1,Tue/Thu,2025-05-11,2025-08-17
+SEC00885,CS276,Machine Learning,Computer Science,Spring 2025,Toronto,EDU-F002,2,Tue/Thu,2025-05-11,2025-08-10
+SEC00886,PHYS396,Thermodynamics,Physics,Spring 2025,Hybrid,EDU-F186,2,Mon/Wed,2025-05-09,2025-08-08
+SEC00887,ECON265,Econometrics,Economics,Spring 2025,Remote,EDU-F134,3,Tue/Thu,2025-05-05,2025-08-11
+SEC00888,PSYC308,Cognitive Psychology,Psychology,Spring 2025,Toronto,EDU-F220,6,Mon/Wed,2025-05-07,2025-07-30
+SEC00889,BUS159,Operations Management,Business & Management,Spring 2025,Hybrid,EDU-F069,2,Tue/Thu,2025-05-10,2025-08-02
+SEC00890,BUS240,Project Management,Business & Management,Spring 2025,Toronto,EDU-F101,6,Fri,2025-05-12,2025-08-11
+SEC00891,CHEM346,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F221,2,Tue/Thu,2025-05-09,2025-08-08
+SEC00892,BIO243,Genetics,Biology,Spring 2025,Remote,EDU-F118,9,Tue/Thu,2025-05-11,2025-08-10
+SEC00893,BUS240,Project Management,Business & Management,Spring 2025,Remote,EDU-F222,5,Fri,2025-05-05,2025-07-28
+SEC00894,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Hybrid,EDU-F198,4,Tue/Thu,2025-05-05,2025-08-04
+SEC00895,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Remote,EDU-F214,5,Mon/Wed,2025-05-08,2025-08-07
+SEC00896,BIO228,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F167,3,Fri,2025-05-07,2025-07-30
+SEC00897,BIO228,Bioinformatics,Biology,Spring 2025,Toronto,EDU-F038,1,Tue/Thu,2025-05-08,2025-07-31
+SEC00898,CS180,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F023,1,Mon/Wed,2025-05-10,2025-08-02
+SEC00899,ENGT196,Systems Integration,Engineering Technology,Spring 2025,Hybrid,EDU-F190,2,Fri,2025-05-08,2025-08-07
+SEC00900,PHYS335,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F129,3,Mon/Wed,2025-05-07,2025-07-30
+SEC00901,PHYS149,Computational Physics,Physics,Spring 2025,Remote,EDU-F177,4,Fri,2025-05-12,2025-08-18
+SEC00902,ECON146,Microeconomics,Economics,Spring 2025,Hybrid,EDU-F236,5,Tue/Thu,2025-05-10,2025-08-02
+SEC00903,CHEM498,Chemometrics,Chemistry,Spring 2025,Remote,EDU-F192,2,Mon/Wed,2025-05-08,2025-08-07
+SEC00904,CS423,Software Engineering,Computer Science,Spring 2025,Toronto,EDU-F061,4,Tue/Thu,2025-05-09,2025-08-08
+SEC00905,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Toronto,EDU-F208,6,Mon/Wed,2025-05-11,2025-08-03
+SEC00906,ENGT476,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F002,3,Mon/Wed,2025-05-09,2025-08-08
+SEC00907,CS276,Machine Learning,Computer Science,Spring 2025,Remote,EDU-F026,2,Fri,2025-05-12,2025-08-04
+SEC00908,BIO161,Molecular Biology,Biology,Spring 2025,Hybrid,EDU-F073,3,Fri,2025-05-08,2025-08-14
+SEC00909,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Remote,EDU-F206,3,Fri,2025-05-11,2025-08-17
+SEC00910,PHYS183,Classical Mechanics,Physics,Spring 2025,Remote,EDU-F052,4,Tue/Thu,2025-05-08,2025-08-07
+SEC00911,CS117,Cloud Computing,Computer Science,Spring 2025,Toronto,EDU-F066,4,Tue/Thu,2025-05-09,2025-08-01
+SEC00912,BIO228,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F197,1,Mon/Wed,2025-05-09,2025-08-08
+SEC00913,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F148,2,Tue/Thu,2025-05-05,2025-08-04
+SEC00914,PHYS180,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F102,4,Fri,2025-05-12,2025-08-18
+SEC00915,PHYS396,Thermodynamics,Physics,Spring 2025,Remote,EDU-F243,4,Fri,2025-05-07,2025-08-13
+SEC00916,CS309,Databases,Computer Science,Spring 2025,Remote,EDU-F145,4,Mon/Wed,2025-05-10,2025-08-02
+SEC00917,PHYS396,Thermodynamics,Physics,Spring 2025,Hybrid,EDU-F125,7,Tue/Thu,2025-05-07,2025-07-30
+SEC00918,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,EDU-F113,6,Fri,2025-05-11,2025-08-10
+SEC00919,BIO285,Bioinformatics,Biology,Spring 2025,Toronto,EDU-F094,3,Fri,2025-05-08,2025-08-07
+SEC00920,CS117,Cloud Computing,Computer Science,Spring 2025,Hybrid,EDU-F279,2,Mon/Wed,2025-05-07,2025-08-06
+SEC00921,ECON462,Macroeconomics,Economics,Spring 2025,Hybrid,EDU-F259,7,Tue/Thu,2025-05-08,2025-08-07
+SEC00922,ECON152,Econometrics,Economics,Spring 2025,Toronto,EDU-F259,4,Tue/Thu,2025-05-06,2025-08-12
+SEC00923,BIO271,Microbiology,Biology,Spring 2025,Hybrid,EDU-F208,3,Fri,2025-05-08,2025-08-14
+SEC00924,CHEM394,Organic Chemistry,Chemistry,Spring 2025,Toronto,EDU-F096,5,Mon/Wed,2025-05-08,2025-07-31
+SEC00925,ECON462,Macroeconomics,Economics,Spring 2025,Toronto,EDU-F115,4,Fri,2025-05-11,2025-08-03
+SEC00926,MTH214,Time Series Analysis,Mathematics & Statistics,Spring 2025,Remote,EDU-F154,3,Mon/Wed,2025-05-10,2025-08-09
+SEC00927,PSYC136,Cognitive Psychology,Psychology,Spring 2025,Remote,EDU-F065,4,Fri,2025-05-08,2025-08-14
+SEC00928,BIO271,Microbiology,Biology,Spring 2025,Remote,EDU-F066,3,Fri,2025-05-05,2025-07-28
+SEC00929,BUS446,Financial Accounting,Business & Management,Spring 2025,Toronto,EDU-F101,8,Fri,2025-05-05,2025-08-11
+SEC00930,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Toronto,EDU-F230,7,Mon/Wed,2025-05-10,2025-08-02
+SEC00931,BUS226,Financial Accounting,Business & Management,Spring 2025,Toronto,EDU-F137,6,Mon/Wed,2025-05-06,2025-07-29
+SEC00932,BIO263,Bioinformatics,Biology,Spring 2025,Remote,EDU-F178,2,Fri,2025-05-07,2025-08-06
+SEC00933,BIO161,Molecular Biology,Biology,Spring 2025,Toronto,EDU-F246,6,Tue/Thu,2025-05-06,2025-08-05
+SEC00934,ECON128,Microeconomics,Economics,Spring 2025,Toronto,EDU-F216,3,Fri,2025-05-11,2025-08-10
+SEC00935,CS326,Software Engineering,Computer Science,Spring 2025,Remote,EDU-F081,4,Tue/Thu,2025-05-09,2025-08-08
+SEC00936,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Toronto,EDU-F089,-2,Mon/Wed,2025-05-12,2025-08-18
+SEC00937,CS276,Machine Learning,Computer Science,Spring 2025,Toronto,EDU-F228,1,Tue/Thu,2025-05-06,2025-08-05
+SEC00938,ECON462,Macroeconomics,Economics,Spring 2025,Remote,EDU-F195,2,Fri,2025-05-10,2025-08-09
+SEC00939,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Toronto,EDU-F055,2,Mon/Wed,2025-05-12,2025-08-11
+SEC00940,CS180,Software Engineering,Computer Science,Spring 2025,Hybrid,EDU-F114,2,Mon/Wed,2025-05-05,2025-07-28
+SEC00941,BIO285,Bioinformatics,Biology,Spring 2025,Remote,EDU-F156,3,Tue/Thu,2025-05-09,2025-08-08
+SEC00942,MTH376,Time Series Analysis,Mathematics & Statistics,Spring 2025,Hybrid,nan,6,Fri,2025-05-09,2025-08-15
+SEC00943,ECON132,Game Theory,Economics,Spring 2025,Remote,EDU-F027,1,Fri,2025-05-10,2025-08-02
+SEC00944,BUS192,Project Management,Business & Management,Spring 2025,Remote,EDU-F006,2,Tue/Thu,2025-05-11,2025-08-10
+SEC00945,CS309,Databases,Computer Science,Spring 2025,Hybrid,EDU-F189,4,Fri,2025-05-11,2025-08-17
+SEC00946,CHEM288,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F260,8,Tue/Thu,2025-05-06,2025-07-29
+SEC00947,CHEM202,Analytical Chemistry,Chemistry,Spring 2025,Toronto,EDU-F165,7,Fri,2025-05-09,2025-08-01
+SEC00948,CHEM346,Chemometrics,Chemistry,Spring 2025,Toronto,EDU-F209,2,Mon/Wed,2025-05-07,2025-08-06
+SEC00949,BIO263,Bioinformatics,Biology,Spring 2025,Remote,EDU-F115,2,Tue/Thu,2025-05-10,2025-08-09
+SEC00950,BIO222,Microbiology,Biology,Spring 2025,Remote,EDU-F175,1,Tue/Thu,2025-05-11,2025-08-03
+SEC00951,BIO243,Genetics,Biology,Spring 2025,Toronto,EDU-F118,5,Mon/Wed,2025-05-11,2025-08-17
+SEC00952,CS309,Databases,Computer Science,Spring 2025,Remote,EDU-F189,4,Mon/Wed,2025-05-09,2025-08-08
+SEC00953,BIO161,Molecular Biology,Biology,Spring 2025,Toronto,EDU-F133,2,Mon/Wed,2025-05-09,2025-08-15
+SEC00954,ECON297,Game Theory,Economics,Spring 2025,Remote,EDU-F077,3,Fri,2025-05-12,2025-08-04
+SEC00955,CS276,Machine Learning,Computer Science,Spring 2025,Remote,EDU-F092,4,Mon/Wed,2025-05-08,2025-08-14
+SEC00956,PHYS149,Computational Physics,Physics,Spring 2025,Remote,EDU-F238,3,Fri,2025-05-12,2025-08-04
+SEC00957,BUS159,Operations Management,Business & Management,Spring 2025,Remote,EDU-F171,2,Fri,2025-05-10,2025-08-09
+SEC00958,CHEM130,Organic Chemistry,Chemistry,Spring 2025,Remote,nan,1,Tue/Thu,2025-05-12,2025-08-04
+SEC00959,BIO271,Microbiology,Biology,Spring 2025,Hybrid,EDU-F010,3,Tue/Thu,2025-05-09,2025-08-15
+SEC00960,ENGT469,Systems Integration,Engineering Technology,Spring 2025,Remote,EDU-F003,2,Fri,2025-05-07,2025-08-13
+SEC00299,BUS446,Financial Accounting,Business & Management,Fall 2024,Hybrid,EDU-F064,4,Fri,2024-09-10,2024-12-17
+SEC00950,BIO222,Microbiology,Biology,Spring 2025,Remote,EDU-F175,1,Tue/Thu,2025-05-11,2025-08-03
+SEC00696,PHYS335,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F093,5,Mon/Wed,2025-05-06,2025-08-05
+SEC00893,BUS240,Project Management,Business & Management,Spring 2025,Remote,EDU-F222,5,Fri,2025-05-05,2025-07-28
+SEC00823,ECON462,Macroeconomics,Economics,Spring 2025,Toronto,EDU-F169,1,Tue/Thu,2025-05-08,2025-07-31
+SEC00944,BUS192,Project Management,Business & Management,Spring 2025,Remote,EDU-F006,2,Tue/Thu,2025-05-11,2025-08-10
+SEC00685,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F014,4,Tue/Thu,2025-05-10,2025-08-09
+SEC00912,BIO228,Bioinformatics,Biology,Spring 2025,Hybrid,EDU-F197,1,Mon/Wed,2025-05-09,2025-08-08
+SEC00622,ENGT446,Network Architecture,Engineering Technology,Winter 2025,Toronto,EDU-F055,5,Tue/Thu,2025-01-13,2025-04-14
+SEC00557,CS276,Machine Learning,Computer Science,Winter 2025,Remote,EDU-F100,4,Mon/Wed,2025-01-13,2025-04-21
+SEC00298,CHEM130,Organic Chemistry,Chemistry,Fall 2024,Toronto,EDU-F160,3,Fri,2024-09-08,2024-12-01
+SEC00673,ECON328,Microeconomics,Economics,Spring 2025,Remote,EDU-F028,1,Fri,2025-05-11,2025-08-10
+SEC00251,CS326,Software Engineering,Computer Science,Fall 2024,Hybrid,EDU-F279,4,Tue/Thu,2024-09-03,2024-11-26
+SEC00155,PHYS183,Classical Mechanics,Physics,Fall 2024,Hybrid,EDU-F262,4,Fri,2024-09-10,2024-12-10
+SEC00269,ECON146,Microeconomics,Economics,Fall 2024,Toronto,EDU-F259,3,Fri,2024-09-06,2024-12-06
+SEC00226,ECON265,Econometrics,Economics,Fall 2024,Toronto,EDU-F233,5,Mon/Wed,2024-09-08,2024-12-15
+SEC00260,CHEM394,Organic Chemistry,Chemistry,Fall 2024,Remote,EDU-F260,3,Tue/Thu,2024-09-09,2024-12-02
+SEC00280,CHEM346,Chemometrics,Chemistry,Fall 2024,Toronto,EDU-F143,1,Mon/Wed,2024-09-09,2024-12-02
+SEC00457,MTH214,Time Series Analysis,Mathematics & Statistics,Winter 2025,Toronto,EDU-F137,3,Mon/Wed,2025-01-06,2025-04-07
+SEC00664,BIO285,Bioinformatics,Biology,Spring 2025,Remote,EDU-F071,4,Tue/Thu,2025-05-08,2025-08-07
+SEC00666,ENGT344,Embedded Systems,Engineering Technology,Spring 2025,Hybrid,EDU-F217,3,Fri,2025-05-06,2025-07-29
+SEC00356,CS117,Cloud Computing,Computer Science,Winter 2025,Hybrid,EDU-F266,,Mon/Wed,2025-01-13,2025-04-21
+SEC00520,ENGT476,Embedded Systems,Engineering Technology,Winter 2025,Toronto,EDU-F199,1,Mon/Wed,2025-01-12,2025-04-06
+SEC00149,CS423,Software Engineering,Computer Science,Fall 2024,Toronto,EDU-F028,-2,Mon/Wed,2024-09-04,2024-12-04
+SEC00950,BIO222,Microbiology,Biology,Spring 2025,Remote,EDU-F175,1,Tue/Thu,2025-05-11,2025-08-03
+SEC00413,BUS240,Project Management,Business & Management,Winter 2025,Hybrid,EDU-F016,7,Tue/Thu,2025-01-13,2025-04-14
+SEC00827,PHYS180,Classical Mechanics,Physics,Spring 2025,Hybrid,EDU-F072,5,Tue/Thu,2025-05-09,2025-08-01
+SEC00686,BIO161,Molecular Biology,Biology,Spring 2025,Remote,EDU-F071,3,Fri,2025-05-12,2025-08-11
+SEC00832,PSYC301,Research Methods,Psychology,Spring 2025,Toronto,EDU-F022,3,Tue/Thu,2025-05-06,2025-08-05
+SEC00132,ECON245,Microeconomics,Economics,Fall 2024,Remote,EDU-F050,3,Fri,2024-09-06,2024-12-06
+SEC00849,ECON489,Econometrics,Economics,Spring 2025,Remote,EDU-F033,3,Fri,2025-05-08,2025-08-14
+SEC00849,ECON489,Econometrics,Economics,Spring 2025,Remote,EDU-F033,3,Fri,2025-05-08,2025-08-14
+SEC00784,ENGT446,Network Architecture,Engineering Technology,Spring 2025,Hybrid,EDU-F084,4,Tue/Thu,2025-05-09,2025-08-08
+SEC00640,CHEM130,Organic Chemistry,Chemistry,Winter 2025,Remote,nan,4,Mon/Wed,2025-01-11,2025-04-19
+SEC00497,ECON462,Macroeconomics,Economics,Winter 2025,Toronto,nan,5,Mon/Wed,2025-01-06,2025-04-07
+SEC00605,CS177,Cloud Computing,Computer Science,Winter 2025,Hybrid,EDU-F248,5,Fri,2025-01-13,2025-04-21
+SEC00014,BIO263,Bioinformatics,Biology,Fall 2024,Toronto,EDU-F127,3,Mon/Wed,2024-09-06,2024-12-06
+SEC00539,ECON328,Microeconomics,Economics,Winter 2025,Hybrid,EDU-F027,6,Tue/Thu,2025-01-07,2025-04-01
+SEC00127,ENGT469,Systems Integration,Engineering Technology,Fall 2024,Remote,EDU-F117,1,Fri,2024-09-10,2024-12-10
+SEC00200,CHEM288,Chemometrics,Chemistry,Fall 2024,Remote,EDU-F157,10,Mon/Wed,2024-09-04,2024-12-11
+SEC00344,CS326,Software Engineering,Computer Science,Winter 2025,Toronto,EDU-F162,5,Mon/Wed,2025-01-09,2025-04-03
+SEC00758,BUS226,Financial Accounting,Business & Management,Spring 2025,Hybrid,EDU-F136,6,Tue/Thu,2025-05-06,2025-08-05
+SEC00670,PSYC174,Behavioural Analytics,Psychology,Spring 2025,Hybrid,EDU-F106,1,Tue/Thu,2025-05-11,2025-08-10
+SEC00533,CS423,Software Engineering,Computer Science,Winter 2025,Hybrid,EDU-F273,3,Fri,2025-01-08,2025-04-16
+SEC00539,ECON328,Microeconomics,Economics,Winter 2025,Hybrid,EDU-F027,6,Tue/Thu,2025-01-07,2025-04-01
+SEC00534,BIO243,Genetics,Biology,Winter 2025,Remote,EDU-F128,4,Mon/Wed,2025-01-09,2025-04-03
+SEC00636,ECON245,Microeconomics,Economics,Winter 2025,Remote,EDU-F259,1,Fri,2025-01-06,2025-03-31
+SEC00262,ECON462,Macroeconomics,Economics,Fall 2024,Remote,EDU-F028,6,Tue/Thu,2024-09-03,2024-12-03
+SEC00798,CHEM333,Chemometrics,Chemistry,Spring 2025,Hybrid,EDU-F059,1,Tue/Thu,2025-05-12,2025-08-04
+SEC00925,ECON462,Macroeconomics,Economics,Spring 2025,Toronto,EDU-F115,4,Fri,2025-05-11,2025-08-03
