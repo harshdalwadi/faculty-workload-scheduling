@@ -36,6 +36,12 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 |---------------|
 | ![Future State](./docs/process_maps/ProcessMap_FutureState.png) |
 
+## Issue Log
+| Screenshot |
+|------------|
+| ![Future State](./docs/issue_log/Screenshot%202025-09-23%20012420.png) |
+
+
 *(Dashboards and ERD screenshots will be added here as they are developed.)*
 
 ---
@@ -43,7 +49,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 ## ✅ Next Steps
 - [x] Draft BRD  
 - [x] Create Process Maps  
-- [ ] Inspect dataset & design ERD  
+- [x] Inspect dataset & design ERD  
 - [ ] Write SQL/Python ETL validations  
 - [ ] Build Power BI dashboards  
 - [ ] Create UAT test cases  
