@@ -10,7 +10,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 ## 📂 Deliverables (in progress)
 - **Business Requirements Document (BRD)** → [`/docs/brd/`](docs/business_requirements_document/Faculty_Workload_BRD_v0.1.md)
 - **Process Maps (Current vs Future state)** → [`/docs/process_maps/`](./docs/process_maps/)
-- **Entity Relationship Diagram (ERD)** → *(coming soon)*
+- **Entity Relationship Diagram (ERD)** → [`/docs/erd/`](./docs/erd/)
 - **ETL Validation Rules** (SQL + Python) → *(coming soon)*
 - **Power BI Dashboards** → *(coming soon)*
 - **UAT Test Cases** → *(coming soon)*
@@ -36,13 +36,17 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 |---------------|
 | ![Future State](./docs/process_maps/ProcessMap_FutureState.png) |
 
+## Entity Relationship Diagram
+| Diagram |
+|---------|
+| ![ERD](./docs/erd/erd.png) |
+
 ## Issue Log
 | Screenshot |
 |------------|
 | ![Future State](./docs/issue_log/Screenshot%202025-09-23%20012420.png) |
 
-
-*(Dashboards and ERD screenshots will be added here as they are developed.)*
+*(Dashboards screenshots will be added here as they are developed.)*
 
 ---
 
