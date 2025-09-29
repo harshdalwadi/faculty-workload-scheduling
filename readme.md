@@ -7,7 +7,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 
 ---
 
-## 📂 Deliverables (in progress)
+## 📂 Deliverables
 - **Business Requirements Document (BRD)** → [`/docs/brd/`](docs/business_requirements_document/Faculty_Workload_BRD_v0.1.md)
 - **Process Maps (Current vs Future state)** → [`/docs/process_maps/`](./docs/process_maps/)
 - **Entity Relationship Diagram (ERD)** → [`/docs/erd/`](./docs/erd/)
