@@ -11,7 +11,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 - **Business Requirements Document (BRD)** → [`/docs/brd/`](docs/business_requirements_document/Faculty_Workload_BRD_v0.1.md)
 - **Process Maps (Current vs Future state)** → [`/docs/process_maps/`](./docs/process_maps/)
 - **Entity Relationship Diagram (ERD)** → [`/docs/erd/`](./docs/erd/)
-- **ETL Validation Rules** (SQL + Python) → *(coming soon)*
+- **ETL Validation Rules** (SQL + Python) → [`/data/sql/`](./data/sql/)
 - **Power BI Dashboards** → *(coming soon)*
 - **UAT Test Cases** → *(coming soon)*
 
@@ -54,7 +54,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 - [x] Draft BRD  
 - [x] Create Process Maps  
 - [x] Inspect dataset & design ERD  
-- [ ] Write SQL/Python ETL validations  
+- [x] Write SQL/Python ETL validations  
 - [ ] Build Power BI dashboards  
 - [ ] Create UAT test cases  
 
