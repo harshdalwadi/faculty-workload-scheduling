@@ -11,3 +11,21 @@ CREATE TABLE dbo.issue_log (
   DetectedOn DATETIME2 DEFAULT SYSDATETIME(),
   Status     NVARCHAR(15) DEFAULT 'Open'
 );
+
+
+IF OBJECT_ID('dbo.v_exceptions_open') IS NOT NULL
+  DROP VIEW dbo.v_exceptions_open;
+
+CREATE VIEW dbo.v_exceptions_open AS
+SELECT
+  IssueID,
+  RuleName,
+  Severity,
+  TableName,
+  RowKey,
+  Details,
+  DetectedOn,
+  Status
+FROM dbo.issue_log
+WHERE Status = 'Open';
+
