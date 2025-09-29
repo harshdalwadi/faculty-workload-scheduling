@@ -12,8 +12,8 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 - **Process Maps (Current vs Future state)** → [`/docs/process_maps/`](./docs/process_maps/)
 - **Entity Relationship Diagram (ERD)** → [`/docs/erd/`](./docs/erd/)
 - **ETL Validation Rules** (SQL + Python) → [`/data/sql/`](./data/sql/)
-- **Power BI Dashboard** → [`/reports/`](./reports/)
-- **UAT Test Cases** → *(coming soon)*
+- **Power BI Dashboard** → [`/reports/`](./reports/Dashboard.pbix)
+- **UAT Test Cases** → [`/reports/`](./reports/issue_log_export.csv)
 
 ---
 
@@ -62,15 +62,16 @@ Drill-down into an individual faculty member’s workload. Displays their assign
 Course-centric view showing course details (code, department, credits, contact hours) and workload distribution across sections, delivery modes, terms, and assigned faculty.
 ![Course Profile](screenshots/3.Course_Profile.png)
 
----
+## 📝 Validation & Exceptions Evidence
+All data quality checks (FR-01 to FR-05) are logged in the `issue_log` table.  
+![UAT_Testing](screenshots/UAT_Testing.png)
 
-## ✅ Next Steps
-- [x] Draft BRD  
-- [x] Create Process Maps  
-- [x] Inspect dataset & design ERD  
-- [x] Write SQL/Python ETL validations  
-- [x] Build Power BI dashboards  
-- [ ] Create UAT test cases  
+It contains:
+- RuleName (Overload, Unassigned, DepartmentMismatch, DuplicateSection, BadHours)
+- Severity (High/Medium)
+- TableName and RowKey (to locate the issue)
+- Details (what was wrong)
+- Status (Open/Closed)
 
 ---
 
