@@ -12,7 +12,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 - **Process Maps (Current vs Future state)** → [`/docs/process_maps/`](./docs/process_maps/)
 - **Entity Relationship Diagram (ERD)** → [`/docs/erd/`](./docs/erd/)
 - **ETL Validation Rules** (SQL + Python) → [`/data/sql/`](./data/sql/)
-- **Power BI Dashboards** → *(coming soon)*
+- **Power BI Dashboard** → [`/reports/`](./reports/)
 - **UAT Test Cases** → *(coming soon)*
 
 ---
@@ -46,7 +46,21 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 |------------|
 | ![Future State](./docs/issue_log/Screenshot%202025-09-23%20012420.png) |
 
-*(Dashboards screenshots will be added here as they are developed.)*
+## 📊 Dashboards
+
+This project delivers a series of Power BI dashboards built on top of validated and curated data. Each page provides a different perspective on faculty workload scheduling.
+
+### 1. Overview Dashboard
+Gives a high-level summary of teaching workload across all terms. Highlights total sections, scheduled hours, faculty, and courses. Also shows workload distribution by department, term, and delivery mode, along with top faculty by load.
+![Overview Dashboard](screenshots/1.Overview_Dashboard.png)
+
+### 2. Faculty Profile
+Drill-down into an individual faculty member’s workload. Displays their assignments, total hours vs. maximum load, department, employment type, and whether they are overloaded.
+![Faculty Profile](screenshots/2.Faculty_Profile.png)
+
+### 3. Course Profile
+Course-centric view showing course details (code, department, credits, contact hours) and workload distribution across sections, delivery modes, terms, and assigned faculty.
+![Course Profile](screenshots/3.Course_Profile.png)
 
 ---
 
@@ -55,7 +69,7 @@ The project mirrors real-world initiatives such as **ERP configuration, complian
 - [x] Create Process Maps  
 - [x] Inspect dataset & design ERD  
 - [x] Write SQL/Python ETL validations  
-- [ ] Build Power BI dashboards  
+- [x] Build Power BI dashboards  
 - [ ] Create UAT test cases  
 
 ---
