@@ -81,11 +81,11 @@ This project successfully delivered a full faculty workload scheduling system bu
 
 - **Validated and cleansed data pipeline**: All raw data was processed via SQL validations (FR-01 to FR-05). Any invalid rows are logged in `issue_log` and excluded from curated tables.  
 - **Interactive dashboards for decision support**: The Power BI report includes:  
-  1. **Overview Dashboard** — At-a-glance totals, workload distributions, and exception KPIs.  
-  2. **Faculty Profile** — Drill-down for each faculty, showing assignments, total hours vs max load, availability, and overload status.  
-  3. **Course Profile** — Course-level load distribution across terms, delivery modes, and assigned instructors.  
-  4. **Exceptions / Issue Log** — Complete visibility into data problems with filters and evidence export.  
-- **Traceability & auditability**: The project includes an exported `issue_log_export.xlsx` as proof of detected issues, and a mini testing mapping showing each functional requirement was verified.  
+  1. **Overview Dashboard** : At-a-glance totals, workload distributions, and exception KPIs.  
+  2. **Faculty Profile** : Drill-down for each faculty, showing assignments, total hours vs max load, availability, and overload status.  
+  3. **Course Profile** : Course-level load distribution across terms, delivery modes, and assigned instructors.  
+  4. **Exceptions / Issue Log** : Complete visibility into data problems with filters and evidence export.  
+- **Traceability & auditability** : The project includes an exported `issue_log_export.xlsx` as proof of detected issues, and a mini testing mapping showing each functional requirement was verified.  
 - **Business value & insight**:
   - Quickly identifies overloaded faculty to prevent burnout.  
   - Highlights department mismatches, unassigned sections, and bad-hours issues for cleanup.  
